@@ -1,0 +1,90 @@
+00:23:03:Start CheckTable
+00:23:06:Server start
+00:23:07:Server start
+12:14:27:Start CheckTable
+12:16:59:Start CheckTable
+12:17:00:Start showTable
+12:17:00:Start showTable
+12:17:00:Start CreateTable
+12:17:30:Start CheckTable
+12:17:31:Start showTable
+12:17:31:Start CreateTable
+12:17:31:Start showTable
+12:17:31:Start CreateTable
+12:17:41:Server start
+12:17:41:Server start
+12:19:24:Start CheckTable
+12:19:24:Start showTable
+12:19:24:Start showTable
+12:19:27:Server start
+12:19:28:Server start
+12:19:37:Disconnect to broke
+12:19:37:ReConnecting
+12:19:41:Server start
+12:19:41:Successfully ReConnected
+12:19:42:Server start
+12:23:57:Start CheckTable
+12:23:57:Start showTable
+12:23:57:Start showTable
+12:24:01:Server start
+12:24:01:Server start
+12:24:54:Start CheckTable
+12:24:54:Start showTable
+12:24:54:Start showTable
+12:24:57:Server start
+12:24:57:Server start
+12:25:27:Start CheckTable
+12:25:27:Start showTable
+12:25:27:Start showTable
+12:25:30:Server start
+12:25:31:Server start
+12:25:54:Start CheckTable
+12:25:54:Start showTable
+12:25:54:Start showTable
+12:25:57:Server start
+12:25:57:Server start
+12:26:05:Server start
+12:26:05:Server start
+12:26:49:Start CheckTable
+12:26:49:Start showTable
+12:26:49:Start showTable
+12:26:52:Server start
+12:26:52:Server start
+12:26:57:Server start
+12:26:57:Server start
+12:30:28:Start CheckTable
+12:30:29:Start showTable
+12:30:29:Start showTable
+12:30:35:Server start
+12:30:35:Server start
+12:31:05:#0TTU_IN
+12:31:05:SelectSQL Connecting to Database...
+12:32:01:#1TTU_IN
+12:32:01:InsertSQL Connecting to database...
+12:32:36:#2TTU001
+12:32:36:UpdateSQL Connecting to database...
+12:32:45:#3TTU001
+12:32:45:UpdateSQL Connecting to database...
+13:24:14:Start CheckTable
+13:24:14:Start showTable
+13:24:14:Start showTable
+13:24:19:Server start
+13:24:19:Server start
+13:24:24:#2TTU001
+13:24:24:UpdateSQL Connecting to database...
+13:24:31:#3TTU001
+13:24:31:UpdateSQL Connecting to database...
+13:26:11:Start CheckTable
+13:26:11:Start showTable
+13:26:11:Start showTable
+13:26:23:Server start
+13:26:23:Server start
+13:26:25:#2TTU001
+13:26:25:UpdateSQL Connecting to database...
+13:26:35:#3TTU001
+13:26:35:UpdateSQL Connecting to database...
+13:27:00:#0TTU_IN
+13:27:00:SelectSQL Connecting to Database...
+13:27:00:InsertSQL Connecting to database...
+13:27:14:#1TTU_OT
+13:27:14:InsertSQL Connecting to database...

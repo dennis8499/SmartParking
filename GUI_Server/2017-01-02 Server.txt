@@ -1,0 +1,838 @@
+17:14:04:Start CheckTable
+17:34:28:Start CheckTable
+17:34:29:Start showTable
+17:34:29:Start showTable
+17:34:29:Start showTable
+17:34:29:Start CreateTable
+17:34:29:Start showTable
+17:34:29:Start CreateTable
+17:34:29:Start showTable
+17:34:29:Start CreateTable
+17:39:02:Server start
+17:39:02:Server start
+17:39:04:TTU_OTstart
+17:39:04:UpdateNodemcu Connecting to database...
+17:39:10:TTU002start
+17:39:10:UpdateNodemcu Connecting to database...
+17:39:10:TTU001start
+17:39:10:UpdateNodemcu Connecting to database...
+17:39:11:TTU003start
+17:39:11:UpdateNodemcu Connecting to database...
+17:39:11:TTU_IN Start
+17:39:19:#2TTU002
+17:39:19:UpdateSQL Connecting to database...
+17:39:26:#3TTU002
+17:39:26:UpdateSQL Connecting to database...
+17:39:41:#1TTU_IN
+17:39:41:InsertSQL Connecting to database...
+17:40:07:Start CheckTable
+17:40:08:Start showTable
+17:40:08:Start showTable
+17:40:08:Start showTable
+17:40:08:Start showTable
+17:40:08:Start showTable
+17:40:17:Server start
+17:40:18:Server start
+17:40:29:TTU_OTstart
+17:40:29:UpdateNodemcu Connecting to database...
+17:40:30:TTU001offline
+17:40:30:UpdateNodemcu Connecting to database...
+17:40:31:TTU002offline
+17:40:31:UpdateNodemcu Connecting to database...
+17:40:31:TTU001start
+17:40:31:UpdateNodemcu Connecting to database...
+17:40:31:TTU003start
+17:40:31:UpdateNodemcu Connecting to database...
+17:40:32:TTU002start
+17:40:32:UpdateNodemcu Connecting to database...
+17:40:32:TTU_IN Start
+17:40:51:#1TTU_IN
+17:40:51:InsertSQL Connecting to database...
+17:41:05:#3TTU003
+17:41:05:UpdateSQL Connecting to database...
+17:41:08:#3TTU002
+17:41:08:UpdateSQL Connecting to database...
+17:41:41:#2TTU003
+17:41:41:UpdateSQL Connecting to database...
+17:41:44:#3TTU001
+17:41:44:UpdateSQL Connecting to database...
+17:42:33:Disconnect to broke
+17:42:33:ReConnecting
+17:42:33:Disconnect to broke
+17:42:33:ReConnecting
+17:42:33:ReConnecting
+17:42:33:ReConnecting
+17:42:33:Disconnect to broke
+17:42:33:ReConnecting
+17:42:34:ReConnecting
+17:42:34:Disconnect to broke
+17:42:34:ReConnecting
+17:42:34:ReConnecting
+17:42:34:ReConnecting
+17:42:34:ReConnecting
+17:42:34:Disconnect to broke
+17:42:34:ReConnecting
+17:42:34:ReConnecting
+17:42:34:ReConnecting
+17:42:34:Disconnect to broke
+17:42:34:ReConnecting
+17:42:34:Disconnect to broke
+17:42:34:ReConnecting
+17:42:34:ReConnecting
+17:42:35:ReConnecting
+17:42:35:Disconnect to broke
+17:42:35:ReConnecting
+17:42:35:ReConnecting
+17:42:35:ReConnecting
+17:42:35:Disconnect to broke
+17:42:35:Disconnect to broke
+17:42:35:ReConnecting
+17:42:35:ReConnecting
+17:42:35:ReConnecting
+17:42:35:ReConnecting
+17:42:35:ReConnecting
+17:42:35:ReConnecting
+17:42:35:ReConnecting
+17:42:35:Disconnect to broke
+17:42:35:Disconnect to broke
+17:42:35:ReConnecting
+17:42:35:Disconnect to broke
+17:42:35:ReConnecting
+17:42:35:ReConnecting
+17:42:35:ReConnecting
+17:42:35:ReConnecting
+17:42:35:ReConnecting
+17:42:35:ReConnecting
+17:42:35:ReConnecting
+17:42:35:ReConnecting
+17:42:35:ReConnecting
+17:42:35:ReConnecting
+17:42:35:Disconnect to broke
+17:42:35:ReConnecting
+17:42:35:ReConnecting
+17:42:36:ReConnecting
+17:42:36:ReConnecting
+17:42:36:ReConnecting
+17:42:36:Disconnect to broke
+17:42:36:ReConnecting
+17:42:36:ReConnecting
+17:42:36:ReConnecting
+17:42:36:ReConnecting
+17:42:36:ReConnecting
+17:42:36:ReConnecting
+17:42:36:Disconnect to broke
+17:42:36:ReConnecting
+17:42:36:ReConnecting
+17:42:36:ReConnecting
+17:42:36:ReConnecting
+17:42:36:ReConnecting
+17:42:36:Disconnect to broke
+17:42:36:ReConnecting
+17:42:36:ReConnecting
+17:42:36:ReConnecting
+17:42:36:ReConnecting
+17:42:36:ReConnecting
+17:42:36:ReConnecting
+17:42:36:Disconnect to broke
+17:42:36:ReConnecting
+17:42:36:ReConnecting
+17:42:36:ReConnecting
+17:42:36:ReConnecting
+17:42:36:ReConnecting
+17:42:36:ReConnecting
+17:42:36:Disconnect to broke
+17:42:36:ReConnecting
+17:42:36:Disconnect to broke
+17:42:36:ReConnecting
+17:42:36:ReConnecting
+17:42:36:ReConnecting
+17:42:37:Disconnect to broke
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:Disconnect to broke
+17:42:37:Disconnect to broke
+17:42:37:Disconnect to broke
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:Disconnect to broke
+17:42:37:ReConnecting
+17:42:37:Disconnect to broke
+17:42:37:ReConnecting
+17:42:37:Disconnect to broke
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:Disconnect to broke
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:Disconnect to broke
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:Disconnect to broke
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:Disconnect to broke
+17:42:37:Disconnect to broke
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:ReConnecting
+17:42:37:Disconnect to broke
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:Disconnect to broke
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:Disconnect to broke
+17:42:38:Disconnect to broke
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:Disconnect to broke
+17:42:38:Disconnect to broke
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:Disconnect to broke
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:Disconnect to broke
+17:42:38:ReConnecting
+17:42:38:ReConnecting
+17:42:38:Disconnect to broke
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:Disconnect to broke
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:Disconnect to broke
+17:42:39:ReConnecting
+17:42:39:Disconnect to broke
+17:42:39:Disconnect to broke
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:Disconnect to broke
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:Disconnect to broke
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:Disconnect to broke
+17:42:39:ReConnecting
+17:42:39:ReConnecting
+17:42:39:Disconnect to broke
+17:47:53:Start CheckTable
+17:47:54:Start showTable
+17:47:54:Start showTable
+17:47:54:Start showTable
+17:47:54:Start showTable
+17:47:54:Start showTable
+17:48:54:Start CheckTable
+17:48:55:Start showTable
+17:48:55:Start showTable
+17:48:55:Start showTable
+17:48:55:Start showTable
+17:48:55:Start showTable
+17:50:13:Start CheckTable
+17:50:14:Start showTable
+17:50:14:Start showTable
+17:50:14:Start showTable
+17:50:14:Start showTable
+17:50:14:Start showTable
+17:50:43:Start CheckTable
+17:50:44:Start showTable
+17:50:44:Start showTable
+17:50:44:Start showTable
+17:50:44:Start showTable
+17:50:44:Start showTable
+17:52:33:Start CheckTable
+17:52:34:Start showTable
+17:52:34:Start showTable
+17:52:34:Start showTable
+17:52:34:Start showTable
+17:52:34:Start showTable
+17:52:38:Server start
+17:52:39:Server start
+17:52:54:Start CheckTable
+17:52:55:Start showTable
+17:52:55:Start showTable
+17:52:55:Start showTable
+17:52:55:Start showTable
+17:52:55:Start showTable
+17:53:01:Server start
+17:53:01:Server start
+17:53:12:TTU_OTstart
+17:53:12:UpdateNodemcu Connecting to database...
+17:53:14:TTU001start
+17:53:14:UpdateNodemcu Connecting to database...
+17:53:14:TTU002start
+17:53:14:UpdateNodemcu Connecting to database...
+17:53:14:TTU003start
+17:53:14:UpdateNodemcu Connecting to database...
+17:53:15:TTU_INstart
+17:53:15:UpdateNodemcu Connecting to database...
+17:53:21:#2TTU003
+17:53:21:UpdateSQL Connecting to database...
+17:53:27:#3TTU003
+17:53:27:UpdateSQL Connecting to database...
+17:53:37:#1TTU_IN
+17:53:37:InsertSQL Connecting to database...
+17:53:51:#2TTU002
+17:53:51:UpdateSQL Connecting to database...
+17:53:57:#3TTU002
+17:53:57:UpdateSQL Connecting to database...
+17:54:02:#2TTU001
+17:54:02:UpdateSQL Connecting to database...
+17:54:12:#3TTU001
+17:54:12:UpdateSQL Connecting to database...
+17:54:17:#0TTU_OT
+17:54:17:SelectSQL Connecting to Database...
+17:54:17:InsertSQL Connecting to database...
+17:54:28:#0TTU_OT
+17:54:28:SelectSQL Connecting to Database...
+17:54:28:InsertSQL Connecting to database...
+17:54:36:#1TTU_IN
+17:54:36:InsertSQL Connecting to database...
+17:58:40:Start CheckTable
+17:58:41:Start showTable
+17:58:41:Start showTable
+17:58:41:Start showTable
+17:58:41:Start showTable
+17:58:41:Start showTable
+17:58:58:Server start
+17:58:58:Server start
+17:59:09:TTU001offline
+17:59:09:UpdateNodemcu Connecting to database...
+17:59:09:TTU_OTstart
+17:59:09:UpdateNodemcu Connecting to database...
+17:59:09:TTU002offline
+17:59:09:UpdateNodemcu Connecting to database...
+17:59:09:TTU003offline
+17:59:09:UpdateNodemcu Connecting to database...
+17:59:10:TTU001start
+17:59:10:UpdateNodemcu Connecting to database...
+17:59:11:TTU002start
+17:59:11:UpdateNodemcu Connecting to database...
+17:59:11:TTU003start
+17:59:11:UpdateNodemcu Connecting to database...
+17:59:11:TTU_INstart
+17:59:11:UpdateNodemcu Connecting to database...
+17:59:32:#1TTU_IN
+17:59:32:InsertSQL Connecting to database...
+17:59:41:#3TTU001
+17:59:41:UpdateSQL Connecting to database...
+18:00:30:#2TTU003
+18:00:30:UpdateSQL Connecting to database...
+18:00:39:#3TTU003
+18:00:39:UpdateSQL Connecting to database...
+18:00:41:#2TTU002
+18:00:41:UpdateSQL Connecting to database...
+18:00:51:#3TTU002
+18:00:51:UpdateSQL Connecting to database...
+18:00:53:#2TTU001
+18:00:53:UpdateSQL Connecting to database...
+18:01:05:#3TTU001
+18:01:05:UpdateSQL Connecting to database...
+18:01:18:#0TTU_OT
+18:01:18:SelectSQL Connecting to Database...
+18:01:23:#0TTU_OT
+18:01:23:SelectSQL Connecting to Database...
+18:02:31:TTU_INoffline
+18:02:31:UpdateNodemcu Connecting to database...
+18:02:32:TTU_INstart
+18:02:32:UpdateNodemcu Connecting to database...
+18:02:38:#0TTU_OT
+18:02:38:SelectSQL Connecting to Database...
+18:03:39:Start CheckTable
+18:03:40:Start showTable
+18:03:40:Start showTable
+18:03:40:Start showTable
+18:03:40:Start showTable
+18:03:40:Start showTable
+18:03:45:Server start
+18:03:45:Server start
+18:03:51:TTU002offline
+18:03:51:UpdateNodemcu Connecting to database...
+18:03:52:TTU002start
+18:03:52:UpdateNodemcu Connecting to database...
+18:04:00:#0TTU_OT
+18:04:00:SelectSQL Connecting to Database...
+18:04:05:TTU001offline
+18:04:05:UpdateNodemcu Connecting to database...
+18:04:06:TTU001start
+18:04:06:UpdateNodemcu Connecting to database...
+18:05:32:TTU_INoffline
+18:05:32:UpdateNodemcu Connecting to database...
+18:05:34:TTU_INstart
+18:05:34:UpdateNodemcu Connecting to database...
+18:06:25:Start CheckTable
+18:06:26:Start showTable
+18:06:26:Start showTable
+18:06:26:Start showTable
+18:06:26:Start showTable
+18:06:26:Start showTable
+18:06:30:Server start
+18:06:30:Server start
+18:06:40:TTU003offline
+18:06:40:UpdateNodemcu Connecting to database...
+18:06:42:TTU003start
+18:06:42:UpdateNodemcu Connecting to database...
+18:06:45:#0TTU_OT
+18:06:45:SelectSQL Connecting to Database...
+18:06:52:TTU002offline
+18:06:52:UpdateNodemcu Connecting to database...
+18:06:54:TTU002start
+18:06:54:UpdateNodemcu Connecting to database...
+18:07:06:TTU001offline
+18:07:06:UpdateNodemcu Connecting to database...
+18:07:08:TTU001start
+18:07:08:UpdateNodemcu Connecting to database...
+18:07:12:Start CheckTable
+18:07:13:Start showTable
+18:07:13:Start showTable
+18:07:13:Start showTable
+18:07:13:Start showTable
+18:07:13:Start showTable
+18:07:20:Server start
+18:07:21:Server start
+18:07:31:#0TTU_OT
+18:07:31:SelectSQL Connecting to Database...
+18:07:31:InsertSQL Connecting to database...
+18:07:40:#0TTU_OT
+18:07:40:SelectSQL Connecting to Database...
+18:07:46:#0TTU_OT
+18:07:46:SelectSQL Connecting to Database...
+18:07:59:Start CheckTable
+18:08:00:Start showTable
+18:08:00:Start showTable
+18:08:00:Start showTable
+18:08:00:Start showTable
+18:08:00:Start showTable
+18:08:08:Server start
+18:08:08:Server start
+18:08:14:#1TTU_IN
+18:08:14:InsertSQL Connecting to database...
+18:08:24:#2TTU001
+18:08:24:UpdateSQL Connecting to database...
+18:08:27:#3TTU001
+18:08:27:UpdateSQL Connecting to database...
+18:08:34:#2TTU002
+18:08:34:UpdateSQL Connecting to database...
+18:08:37:#3TTU002
+18:08:37:UpdateSQL Connecting to database...
+18:09:01:#2TTU003
+18:09:01:UpdateSQL Connecting to database...
+18:09:10:#3TTU003
+18:09:10:UpdateSQL Connecting to database...
+18:09:12:#0TTU_OT
+18:09:12:SelectSQL Connecting to Database...
+18:09:12:InsertSQL Connecting to database...
+18:12:09:Start CheckTable
+18:12:09:Start showTable
+18:12:09:Start showTable
+18:12:10:Start showTable
+18:12:10:Start showTable
+18:12:10:Start showTable
+18:12:22:Start CheckTable
+18:12:23:Start showTable
+18:12:23:Start showTable
+18:12:23:Start showTable
+18:12:23:Start showTable
+18:12:23:Start showTable
+18:12:34:Server start
+18:12:34:Server start
+18:12:38:Start CheckTable
+18:12:39:Start showTable
+18:12:39:Start showTable
+18:12:39:Start showTable
+18:12:39:Start showTable
+18:12:39:Start showTable
+18:12:48:Server start
+18:12:48:Server start
+18:12:55:TTU_OToffline
+18:12:55:UpdateNodemcu Connecting to database...
+18:12:58:TTU003start
+18:12:58:UpdateNodemcu Connecting to database...
+18:12:58:TTU_OTstart
+18:12:58:UpdateNodemcu Connecting to database...
+18:12:58:TTU002start
+18:12:58:UpdateNodemcu Connecting to database...
+18:12:58:TTU001start
+18:12:58:UpdateNodemcu Connecting to database...
+18:12:59:TTU_INstart
+18:12:59:UpdateNodemcu Connecting to database...
+18:13:05:#3TTU002
+18:13:05:UpdateSQL Connecting to database...
+18:13:46:#1TTU_IN
+18:13:46:InsertSQL Connecting to database...
+18:13:56:#2TTU001
+18:13:56:UpdateSQL Connecting to database...
+18:13:59:#3TTU001
+18:13:59:UpdateSQL Connecting to database...
+18:14:02:#3TTU003
+18:14:02:UpdateSQL Connecting to database...
+18:14:05:#2TTU002
+18:14:05:UpdateSQL Connecting to database...
+18:14:11:#3TTU002
+18:14:11:UpdateSQL Connecting to database...
+18:14:17:#2TTU003
+18:14:17:UpdateSQL Connecting to database...
+18:14:23:#0TTU_OT
+18:14:23:SelectSQL Connecting to Database...
+18:14:23:InsertSQL Connecting to database...
+18:14:23:#3TTU003
+18:14:23:UpdateSQL Connecting to database...
+18:16:51:#1TTU_IN
+18:16:51:InsertSQL Connecting to database...
+18:17:11:#1TTU_IN
+18:17:11:InsertSQL Connecting to database...
+18:17:26:#2TTU001
+18:17:26:UpdateSQL Connecting to database...
+18:17:38:#3TTU001
+18:17:38:UpdateSQL Connecting to database...
+18:17:44:#2TTU002
+18:17:44:UpdateSQL Connecting to database...
+18:17:53:#3TTU002
+18:17:53:UpdateSQL Connecting to database...
+18:18:13:#0TTU_OT
+18:18:13:SelectSQL Connecting to Database...
+18:18:13:InsertSQL Connecting to database...
+18:18:31:#2TTU003
+18:18:31:UpdateSQL Connecting to database...
+18:18:35:#3TTU003
+18:18:35:UpdateSQL Connecting to database...
+18:18:40:#1TTU_IN
+18:18:40:InsertSQL Connecting to database...
+18:18:44:#1TTU_IN
+18:18:44:InsertSQL Connecting to database...
+18:19:05:#2TTU002
+18:19:05:UpdateSQL Connecting to database...
+18:19:25:#1TTU_IN
+18:19:25:InsertSQL Connecting to database...
+18:20:30:#1TTU_IN
+18:20:30:InsertSQL Connecting to database...
+18:20:38:TTU001offline
+18:20:38:UpdateNodemcu Connecting to database...
+18:20:39:TTU001start
+18:20:39:UpdateNodemcu Connecting to database...
+18:20:40:#1TTU_IN
+18:20:40:InsertSQL Connecting to database...
+18:21:13:TTU_OToffline
+18:21:13:UpdateNodemcu Connecting to database...
+18:21:15:TTU_OTstart
+18:21:15:UpdateNodemcu Connecting to database...
+18:21:28:#2TTU001
+18:21:28:UpdateSQL Connecting to database...
+18:21:34:#3TTU001
+18:21:34:UpdateSQL Connecting to database...
+18:21:35:TTU003offline
+18:21:35:UpdateNodemcu Connecting to database...
+18:21:37:TTU003start
+18:21:37:UpdateNodemcu Connecting to database...
+18:22:04:TTU002offline
+18:22:04:UpdateNodemcu Connecting to database...
+18:22:04:#2TTU001
+18:22:04:UpdateSQL Connecting to database...
+18:22:06:TTU002start
+18:22:06:UpdateNodemcu Connecting to database...
+18:22:13:#3TTU002
+18:22:13:UpdateSQL Connecting to database...
+18:22:13:#2TTU003
+18:22:13:UpdateSQL Connecting to database...
+18:22:19:#2TTU002
+18:22:19:UpdateSQL Connecting to database...
+18:22:22:#3TTU002
+18:22:22:UpdateSQL Connecting to database...
+18:22:25:#3TTU001
+18:22:25:UpdateSQL Connecting to database...
+18:22:27:#3TTU003
+18:22:27:UpdateSQL Connecting to database...
+18:22:49:#2TTU002
+18:22:49:UpdateSQL Connecting to database...
+18:22:54:#0TTU_OT
+18:22:54:SelectSQL Connecting to Database...
+18:22:54:InsertSQL Connecting to database...
+18:23:40:TTU_INoffline
+18:23:40:UpdateNodemcu Connecting to database...
+18:23:42:TTU_INstart
+18:23:42:UpdateNodemcu Connecting to database...
+18:23:55:#3TTU002
+18:23:55:UpdateSQL Connecting to database...
+18:24:01:#2TTU002
+18:24:01:UpdateSQL Connecting to database...
+18:24:02:#0TTU_OT
+18:24:02:SelectSQL Connecting to Database...
+18:24:16:#3TTU002
+18:24:16:UpdateSQL Connecting to database...
+18:24:17:#1TTU_IN
+18:24:17:InsertSQL Connecting to database...
+18:24:28:#2TTU002
+18:24:28:UpdateSQL Connecting to database...
+18:24:29:#1TTU_IN
+18:24:29:InsertSQL Connecting to database...
+18:24:38:#0TTU_OT
+18:24:38:SelectSQL Connecting to Database...
+18:24:38:InsertSQL Connecting to database...
+18:24:39:#1TTU_IN
+18:24:39:InsertSQL Connecting to database...
+18:24:41:#0TTU_OT
+18:24:41:SelectSQL Connecting to Database...
+18:24:41:InsertSQL Connecting to database...
+18:25:24:#1TTU_IN
+18:25:24:InsertSQL Connecting to database...
+18:25:25:TTU001offline
+18:25:25:UpdateNodemcu Connecting to database...
+18:25:26:TTU003offline
+18:25:26:UpdateNodemcu Connecting to database...
+18:25:26:TTU001start
+18:25:26:UpdateNodemcu Connecting to database...
+18:25:28:TTU003start
+18:25:28:UpdateNodemcu Connecting to database...
+18:25:36:#2TTU001
+18:25:36:UpdateSQL Connecting to database...
+18:25:42:#3TTU001
+18:25:42:UpdateSQL Connecting to database...
+18:25:44:#0TTU_OT
+18:25:44:SelectSQL Connecting to Database...
+18:25:44:InsertSQL Connecting to database...
+18:25:44:#1TTU_IN
+18:25:44:InsertSQL Connecting to database...
+18:25:46:#1TTU_IN
+18:25:46:InsertSQL Connecting to database...
+18:25:49:#3TTU002
+18:25:49:UpdateSQL Connecting to database...
+18:25:58:#2TTU002
+18:25:58:UpdateSQL Connecting to database...
+18:25:59:#1TTU_IN
+18:25:59:InsertSQL Connecting to database...
+18:26:04:#3TTU002
+18:26:04:UpdateSQL Connecting to database...
+18:26:05:#1TTU_IN
+18:26:05:InsertSQL Connecting to database...
+18:26:07:#1TTU_IN
+18:26:07:InsertSQL Connecting to database...
+18:26:22:#2TTU002
+18:26:22:UpdateSQL Connecting to database...
+18:26:23:#1TTU_IN
+18:26:23:InsertSQL Connecting to database...
+18:26:25:#1TTU_IN
+18:26:25:InsertSQL Connecting to database...
+18:27:42:TTU_INstart
+18:27:42:UpdateNodemcu Connecting to database...
+18:27:49:#1TTU_IN
+18:27:49:InsertSQL Connecting to database...
+18:28:00:TTU001offline
+18:28:00:UpdateNodemcu Connecting to database...
+18:28:02:TTU003offline
+18:28:02:UpdateNodemcu Connecting to database...
+18:28:03:TTU003start
+18:28:03:UpdateNodemcu Connecting to database...
+18:28:03:TTU001start
+18:28:03:UpdateNodemcu Connecting to database...
+18:28:44:TTU_OToffline
+18:28:44:UpdateNodemcu Connecting to database...
+18:28:45:TTU002start
+18:28:45:UpdateNodemcu Connecting to database...
+18:28:52:#3TTU002
+18:28:52:UpdateSQL Connecting to database...
+18:28:57:#2TTU002
+18:28:57:UpdateSQL Connecting to database...
+18:29:07:#3TTU002
+18:29:07:UpdateSQL Connecting to database...
+18:29:10:#2TTU003
+18:29:10:UpdateSQL Connecting to database...
+18:29:16:#3TTU003
+18:29:16:UpdateSQL Connecting to database...
+18:29:24:#2TTU002
+18:29:24:UpdateSQL Connecting to database...
+18:29:34:#3TTU002
+18:29:34:UpdateSQL Connecting to database...
+18:29:38:TTU_OTstart
+18:29:38:UpdateNodemcu Connecting to database...
+18:30:15:#2TTU002
+18:30:15:UpdateSQL Connecting to database...
+18:30:19:#3TTU002
+18:30:19:UpdateSQL Connecting to database...
+18:30:44:TTU_OToffline
+18:30:44:UpdateNodemcu Connecting to database...
+18:30:44:TTU001offline
+18:30:44:UpdateNodemcu Connecting to database...
+18:30:44:TTU002offline
+18:30:44:UpdateNodemcu Connecting to database...
+18:30:44:TTU003start
+18:30:44:UpdateNodemcu Connecting to database...
+18:30:44:TTU_OTstart
+18:30:44:UpdateNodemcu Connecting to database...
+18:30:45:TTU001start
+18:30:45:UpdateNodemcu Connecting to database...
+18:30:45:TTU_INstart
+18:30:45:UpdateNodemcu Connecting to database...
+18:30:45:TTU002start
+18:30:45:UpdateNodemcu Connecting to database...
+18:30:46:#1TTU_IN
+18:30:46:InsertSQL Connecting to database...
+18:30:51:#2TTU002
+18:30:51:UpdateSQL Connecting to database...
+18:31:10:#1TTU_IN
+18:31:10:InsertSQL Connecting to database...
+18:31:19:#1TTU_IN
+18:31:19:InsertSQL Connecting to database...
+18:33:36:TTU003start
+18:33:36:UpdateNodemcu Connecting to database...
+18:33:36:TTU_OTstart
+18:33:36:UpdateNodemcu Connecting to database...
+18:33:36:TTU001start
+18:33:36:UpdateNodemcu Connecting to database...
+18:33:36:TTU002start
+18:33:36:UpdateNodemcu Connecting to database...
+18:33:36:TTU_INstart
+18:33:36:UpdateNodemcu Connecting to database...
+18:33:37:#1TTU_IN
+18:33:37:InsertSQL Connecting to database...
+18:33:52:#3TTU002
+18:33:52:UpdateSQL Connecting to database...
+18:33:53:#1TTU_IN
+18:33:53:InsertSQL Connecting to database...
+18:33:57:#2TTU002
+18:33:57:UpdateSQL Connecting to database...
+18:33:59:#1TTU_IN
+18:33:59:InsertSQL Connecting to database...
+18:35:16:#1TTU_IN
+18:35:16:InsertSQL Connecting to database...
+18:35:27:#2TTU001
+18:35:27:UpdateSQL Connecting to database...
+18:35:29:#1TTU_IN
+18:35:29:InsertSQL Connecting to database...
+18:35:34:#3TTU001
+18:35:34:UpdateSQL Connecting to database...
+18:36:07:#3TTU002
+18:36:07:UpdateSQL Connecting to database...
+18:36:08:#1TTU_IN
+18:36:08:InsertSQL Connecting to database...
+18:36:35:TTU003offline
+18:36:35:UpdateNodemcu Connecting to database...
+18:36:35:TTU_OToffline
+18:36:35:UpdateNodemcu Connecting to database...
+18:36:37:TTU_OTstart
+18:36:37:UpdateNodemcu Connecting to database...
+18:36:37:TTU003start
+18:36:37:UpdateNodemcu Connecting to database...
+18:36:59:TTU002start
+18:36:59:UpdateNodemcu Connecting to database...
+18:37:14:#2TTU002
+18:37:15:UpdateSQL Connecting to database...
+18:37:26:#2TTU003
+18:37:26:UpdateSQL Connecting to database...
+18:37:31:#3TTU002
+18:37:31:UpdateSQL Connecting to database...
+18:37:44:#3TTU003
+18:37:44:UpdateSQL Connecting to database...
+18:37:54:#2TTU002
+18:37:54:UpdateSQL Connecting to database...
+18:37:57:#3TTU002
+18:37:57:UpdateSQL Connecting to database...
+18:37:59:#0TTU_OT
+18:37:59:SelectSQL Connecting to Database...
+18:37:59:InsertSQL Connecting to database...
+18:38:08:#2TTU003
+18:38:08:UpdateSQL Connecting to database...
+18:38:15:#3TTU003
+18:38:15:UpdateSQL Connecting to database...
+18:38:26:#2TTU003
+18:38:26:UpdateSQL Connecting to database...
+18:38:32:#3TTU003
+18:38:32:UpdateSQL Connecting to database...
+18:38:33:TTU001offline
+18:38:33:UpdateNodemcu Connecting to database...
+18:38:35:TTU001start
+18:38:35:UpdateNodemcu Connecting to database...
+18:38:57:#0TTU_OT
+18:38:57:SelectSQL Connecting to Database...
+18:38:57:InsertSQL Connecting to database...
+18:39:07:TTU_INoffline
+18:39:07:UpdateNodemcu Connecting to database...

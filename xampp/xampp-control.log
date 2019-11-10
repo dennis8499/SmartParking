@@ -1,0 +1,1529 @@
+下午 04:35:48  [main] 	Initializing Control Panel
+下午 04:35:48  [main] 	Windows Version:  Home  64-bit
+下午 04:35:48  [main] 	XAMPP Version: 5.6.24
+下午 04:35:48  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 04:35:48  [main] 	You are not running with administrator rights! This will work for
+下午 04:35:48  [main] 	most application stuff but whenever you do something with services
+下午 04:35:48  [main] 	there will be a security dialogue or things will break! So think 
+下午 04:35:48  [main] 	about running this application with administrator rights!
+下午 04:35:48  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 04:35:48  [main] 	Checking for prerequisites
+下午 04:35:52  [main] 	All prerequisites found
+下午 04:35:52  [main] 	Initializing Modules
+下午 04:35:52  [main] 	Starting Check-Timer
+下午 04:35:52  [main] 	Control Panel Ready
+下午 04:37:31  [Apache] 	Attempting to start Apache app...
+下午 04:37:31  [Apache] 	Status change detected: running
+下午 04:37:34  [mysql] 	Attempting to start MySQL app...
+下午 04:37:35  [mysql] 	Status change detected: running
+下午 04:41:20  [main] 	Executing "c:\xampp\"
+下午 04:44:02  [main] 	Executing "c:\xampp\"
+下午 04:44:54  [Apache] 	Attempting to stop Apache (PID: 2584)
+下午 04:44:54  [Apache] 	Attempting to stop Apache (PID: 468)
+下午 04:44:54  [Apache] 	Status change detected: stopped
+下午 04:44:55  [Apache] 	Attempting to start Apache app...
+下午 04:44:55  [Apache] 	Status change detected: running
+下午 08:12:13  [Apache] 	Attempting to stop Apache (PID: 5476)
+下午 08:12:13  [Apache] 	Attempting to stop Apache (PID: 8856)
+下午 08:12:14  [Apache] 	Status change detected: stopped
+下午 08:12:14  [mysql] 	Attempting to stop MySQL app...
+下午 08:12:15  [mysql] 	Status change detected: stopped
+下午 09:28:51  [main] 	Deinitializing Modules
+下午 09:28:51  [main] 	Deinitializing Control Panel
+
+下午 09:18:43  [main] 	Initializing Control Panel
+下午 09:18:43  [main] 	Windows Version:  Home  64-bit
+下午 09:18:43  [main] 	XAMPP Version: 5.6.24
+下午 09:18:43  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 09:18:43  [main] 	You are not running with administrator rights! This will work for
+下午 09:18:43  [main] 	most application stuff but whenever you do something with services
+下午 09:18:43  [main] 	there will be a security dialogue or things will break! So think 
+下午 09:18:43  [main] 	about running this application with administrator rights!
+下午 09:18:43  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 09:18:43  [main] 	Checking for prerequisites
+下午 09:18:47  [main] 	All prerequisites found
+下午 09:18:47  [main] 	Initializing Modules
+下午 09:18:47  [main] 	Starting Check-Timer
+下午 09:18:47  [main] 	Control Panel Ready
+下午 09:19:00  [Apache] 	Attempting to start Apache app...
+下午 09:19:00  [mysql] 	Attempting to start MySQL app...
+下午 09:19:01  [Apache] 	Status change detected: running
+下午 09:19:01  [mysql] 	Status change detected: running
+下午 09:43:25  [mysql] 	Attempting to stop MySQL app...
+下午 09:43:26  [Apache] 	Attempting to stop Apache (PID: 7520)
+下午 09:43:26  [Apache] 	Attempting to stop Apache (PID: 11088)
+下午 09:43:26  [Apache] 	Status change detected: stopped
+下午 09:43:26  [mysql] 	Status change detected: stopped
+下午 09:43:49  [main] 	Deinitializing Modules
+下午 09:43:49  [main] 	Deinitializing Control Panel
+
+下午 09:01:56  [main] 	Initializing Control Panel
+下午 09:01:56  [main] 	Windows Version:  Home  64-bit
+下午 09:01:56  [main] 	XAMPP Version: 5.6.24
+下午 09:01:56  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 09:01:56  [main] 	You are not running with administrator rights! This will work for
+下午 09:01:56  [main] 	most application stuff but whenever you do something with services
+下午 09:01:56  [main] 	there will be a security dialogue or things will break! So think 
+下午 09:01:56  [main] 	about running this application with administrator rights!
+下午 09:01:56  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 09:01:56  [main] 	Checking for prerequisites
+下午 09:02:00  [main] 	All prerequisites found
+下午 09:02:00  [main] 	Initializing Modules
+下午 09:02:00  [main] 	Starting Check-Timer
+下午 09:02:00  [main] 	Control Panel Ready
+下午 09:02:02  [Apache] 	Attempting to start Apache app...
+下午 09:02:03  [mysql] 	Attempting to start MySQL app...
+下午 09:02:05  [Apache] 	Status change detected: running
+下午 09:02:05  [mysql] 	Status change detected: running
+下午 11:43:55  [Apache] 	Attempting to stop Apache (PID: 6240)
+下午 11:43:55  [Apache] 	Attempting to stop Apache (PID: 12560)
+下午 11:43:55  [Apache] 	Status change detected: stopped
+下午 11:43:55  [mysql] 	Attempting to stop MySQL app...
+下午 11:43:57  [mysql] 	Status change detected: stopped
+下午 11:58:00  [main] 	Deinitializing Modules
+下午 11:58:00  [main] 	Deinitializing Control Panel
+
+下午 11:22:07  [main] 	Initializing Control Panel
+下午 11:22:07  [main] 	Windows Version:  Home  64-bit
+下午 11:22:07  [main] 	XAMPP Version: 5.6.24
+下午 11:22:07  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 11:22:07  [main] 	You are not running with administrator rights! This will work for
+下午 11:22:07  [main] 	most application stuff but whenever you do something with services
+下午 11:22:07  [main] 	there will be a security dialogue or things will break! So think 
+下午 11:22:07  [main] 	about running this application with administrator rights!
+下午 11:22:07  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 11:22:07  [main] 	Checking for prerequisites
+下午 11:22:11  [main] 	All prerequisites found
+下午 11:22:11  [main] 	Initializing Modules
+下午 11:22:11  [main] 	Starting Check-Timer
+下午 11:22:11  [main] 	Control Panel Ready
+下午 11:22:14  [Apache] 	Attempting to start Apache app...
+下午 11:22:15  [Apache] 	Status change detected: running
+下午 11:22:15  [mysql] 	Attempting to start MySQL app...
+下午 11:22:16  [mysql] 	Status change detected: running
+下午 11:22:28  [Apache] 	Attempting to stop Apache (PID: 10596)
+下午 11:22:28  [Apache] 	Status change detected: stopped
+下午 11:22:28  [mysql] 	Attempting to stop MySQL app...
+下午 11:22:32  [mysql] 	Status change detected: stopped
+下午 11:22:34  [Apache] 	Attempting to start Apache app...
+下午 11:22:34  [Apache] 	Status change detected: running
+下午 11:22:35  [mysql] 	Attempting to start MySQL app...
+下午 11:22:35  [mysql] 	Status change detected: running
+下午 11:23:20  [Apache] 	Attempting to stop Apache (PID: 6600)
+下午 11:23:20  [Apache] 	Attempting to stop Apache (PID: 76)
+下午 11:23:20  [Apache] 	Status change detected: stopped
+下午 11:23:20  [mysql] 	Attempting to stop MySQL app...
+下午 11:23:21  [mysql] 	Status change detected: stopped
+下午 11:23:32  [main] 	Deinitializing Modules
+下午 11:23:32  [main] 	Deinitializing Control Panel
+
+下午 09:43:46  [main] 	Initializing Control Panel
+下午 09:43:46  [main] 	Windows Version:  Home  64-bit
+下午 09:43:46  [main] 	XAMPP Version: 5.6.24
+下午 09:43:46  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 09:43:46  [main] 	You are not running with administrator rights! This will work for
+下午 09:43:46  [main] 	most application stuff but whenever you do something with services
+下午 09:43:46  [main] 	there will be a security dialogue or things will break! So think 
+下午 09:43:46  [main] 	about running this application with administrator rights!
+下午 09:43:46  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 09:43:46  [main] 	Checking for prerequisites
+下午 09:43:50  [main] 	All prerequisites found
+下午 09:43:50  [main] 	Initializing Modules
+下午 09:43:50  [main] 	Starting Check-Timer
+下午 09:43:50  [main] 	Control Panel Ready
+下午 09:44:38  [Apache] 	Attempting to start Apache app...
+下午 09:44:39  [Apache] 	Status change detected: running
+下午 09:44:40  [mysql] 	Attempting to start MySQL app...
+下午 09:44:41  [mysql] 	Status change detected: running
+上午 10:58:45  [main] 	Deinitializing Modules
+上午 10:58:45  [main] 	Deinitializing Control Panel
+
+上午 10:59:14  [main] 	Initializing Control Panel
+上午 10:59:14  [main] 	Windows Version:  Home  64-bit
+上午 10:59:14  [main] 	XAMPP Version: 5.6.24
+上午 10:59:14  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+上午 10:59:14  [main] 	You are not running with administrator rights! This will work for
+上午 10:59:14  [main] 	most application stuff but whenever you do something with services
+上午 10:59:14  [main] 	there will be a security dialogue or things will break! So think 
+上午 10:59:14  [main] 	about running this application with administrator rights!
+上午 10:59:14  [main] 	XAMPP Installation Directory: "c:\xampp\"
+上午 10:59:14  [main] 	Checking for prerequisites
+上午 10:59:19  [main] 	All prerequisites found
+上午 10:59:19  [main] 	Initializing Modules
+上午 10:59:19  [Apache] 	XAMPP Apache is already running on port 80
+上午 10:59:19  [Apache] 	XAMPP Apache is already running on port 443
+上午 10:59:19  [main] 	Starting Check-Timer
+上午 10:59:19  [main] 	Control Panel Ready
+上午 10:59:26  [mysql] 	Attempting to stop MySQL app...
+上午 10:59:27  [mysql] 	Status change detected: stopped
+上午 10:59:28  [mysql] 	Attempting to start MySQL app...
+上午 10:59:28  [mysql] 	Status change detected: running
+上午 11:00:15  [mysql] 	Attempting to stop MySQL app...
+上午 11:00:15  [mysql] 	Status change detected: stopped
+上午 11:00:15  [Apache] 	Attempting to stop Apache (PID: 8292)
+上午 11:00:15  [Apache] 	Attempting to stop Apache (PID: 11412)
+上午 11:00:16  [Apache] 	Status change detected: stopped
+上午 11:03:34  [Apache] 	Attempting to start Apache app...
+上午 11:03:35  [Apache] 	Status change detected: running
+上午 11:03:36  [Apache] 	Attempting to stop Apache (PID: 12468)
+上午 11:03:37  [Apache] 	Status change detected: stopped
+上午 11:03:39  [main] 	Deinitializing Modules
+上午 11:03:39  [main] 	Deinitializing Control Panel
+
+下午 03:56:15  [main] 	Initializing Control Panel
+下午 03:56:15  [main] 	Windows Version:  Home  64-bit
+下午 03:56:15  [main] 	XAMPP Version: 5.6.24
+下午 03:56:15  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 03:56:15  [main] 	You are not running with administrator rights! This will work for
+下午 03:56:15  [main] 	most application stuff but whenever you do something with services
+下午 03:56:15  [main] 	there will be a security dialogue or things will break! So think 
+下午 03:56:15  [main] 	about running this application with administrator rights!
+下午 03:56:15  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 03:56:15  [main] 	Checking for prerequisites
+下午 03:56:22  [main] 	All prerequisites found
+下午 03:56:22  [main] 	Initializing Modules
+下午 03:56:22  [main] 	Starting Check-Timer
+下午 03:56:23  [main] 	Control Panel Ready
+下午 04:23:17  [Apache] 	Attempting to start Apache app...
+下午 04:23:18  [Apache] 	Status change detected: running
+下午 04:23:18  [mysql] 	Attempting to start MySQL app...
+下午 04:23:20  [mysql] 	Status change detected: running
+下午 04:50:07  [Apache] 	Attempting to stop Apache (PID: 8312)
+下午 04:50:07  [Apache] 	Attempting to stop Apache (PID: 11776)
+下午 04:50:07  [Apache] 	Status change detected: stopped
+下午 04:50:07  [mysql] 	Attempting to stop MySQL app...
+下午 04:50:12  [mysql] 	Status change detected: stopped
+下午 04:50:57  [Apache] 	Attempting to start Apache app...
+下午 04:50:57  [Apache] 	Status change detected: running
+下午 04:50:57  [mysql] 	Attempting to start MySQL app...
+下午 04:50:58  [mysql] 	Status change detected: running
+下午 04:52:55  [Apache] 	Attempting to stop Apache (PID: 10588)
+下午 04:52:55  [Apache] 	Attempting to stop Apache (PID: 14992)
+下午 04:52:56  [Apache] 	Status change detected: stopped
+下午 04:52:56  [mysql] 	Attempting to stop MySQL app...
+下午 04:52:56  [mysql] 	Status change detected: stopped
+下午 07:20:57  [Apache] 	Attempting to start Apache app...
+下午 07:20:57  [Apache] 	Status change detected: running
+下午 07:20:57  [mysql] 	Attempting to start MySQL app...
+下午 07:20:58  [mysql] 	Status change detected: running
+下午 07:53:29  [mysql] 	Attempting to stop MySQL app...
+下午 07:53:30  [Apache] 	Attempting to stop Apache (PID: 11288)
+下午 07:53:30  [Apache] 	Attempting to stop Apache (PID: 11932)
+下午 07:53:30  [Apache] 	Status change detected: stopped
+下午 07:53:30  [mysql] 	Status change detected: stopped
+下午 08:08:19  [main] 	Deinitializing Modules
+下午 08:08:19  [main] 	Deinitializing Control Panel
+
+下午 09:11:05  [main] 	Initializing Control Panel
+下午 09:11:05  [main] 	Windows Version:  Home  64-bit
+下午 09:11:05  [main] 	XAMPP Version: 5.6.24
+下午 09:11:05  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 09:11:05  [main] 	You are not running with administrator rights! This will work for
+下午 09:11:05  [main] 	most application stuff but whenever you do something with services
+下午 09:11:05  [main] 	there will be a security dialogue or things will break! So think 
+下午 09:11:05  [main] 	about running this application with administrator rights!
+下午 09:11:05  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 09:11:05  [main] 	Checking for prerequisites
+下午 09:11:09  [main] 	All prerequisites found
+下午 09:11:09  [main] 	Initializing Modules
+下午 09:11:09  [main] 	Starting Check-Timer
+下午 09:11:09  [main] 	Control Panel Ready
+下午 09:11:10  [Apache] 	Attempting to start Apache app...
+下午 09:11:11  [Apache] 	Status change detected: running
+下午 09:11:11  [mysql] 	Attempting to start MySQL app...
+下午 09:11:13  [mysql] 	Status change detected: running
+下午 09:15:55  [mysql] 	Attempting to stop MySQL app...
+下午 09:15:56  [Apache] 	Attempting to stop Apache (PID: 172)
+下午 09:15:56  [Apache] 	Attempting to stop Apache (PID: 3188)
+下午 09:15:56  [Apache] 	Status change detected: stopped
+下午 09:15:56  [mysql] 	Status change detected: stopped
+下午 09:16:00  [main] 	Deinitializing Modules
+下午 09:16:00  [main] 	Deinitializing Control Panel
+
+下午 10:20:05  [main] 	Initializing Control Panel
+下午 10:20:05  [main] 	Windows Version:  Home  64-bit
+下午 10:20:05  [main] 	XAMPP Version: 5.6.24
+下午 10:20:05  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 10:20:05  [main] 	You are not running with administrator rights! This will work for
+下午 10:20:05  [main] 	most application stuff but whenever you do something with services
+下午 10:20:05  [main] 	there will be a security dialogue or things will break! So think 
+下午 10:20:05  [main] 	about running this application with administrator rights!
+下午 10:20:05  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 10:20:05  [main] 	Checking for prerequisites
+下午 10:20:05  [main] 	All prerequisites found
+下午 10:20:05  [main] 	Initializing Modules
+下午 10:20:05  [main] 	Starting Check-Timer
+下午 10:20:05  [main] 	Control Panel Ready
+下午 10:20:10  [Apache] 	Attempting to start Apache app...
+下午 10:20:11  [Apache] 	Status change detected: running
+下午 10:20:11  [mysql] 	Attempting to start MySQL app...
+下午 10:20:11  [mysql] 	Status change detected: running
+下午 10:21:42  [mysql] 	Attempting to stop MySQL app...
+下午 10:21:43  [Apache] 	Attempting to stop Apache (PID: 4588)
+下午 10:21:43  [Apache] 	Attempting to stop Apache (PID: 6228)
+下午 10:21:43  [Apache] 	Status change detected: stopped
+下午 10:21:43  [mysql] 	Status change detected: stopped
+下午 10:45:23  [Apache] 	Attempting to start Apache app...
+下午 10:45:24  [Apache] 	Status change detected: running
+下午 10:45:24  [mysql] 	Attempting to start MySQL app...
+下午 10:45:24  [mysql] 	Status change detected: running
+下午 10:46:22  [mysql] 	Attempting to stop MySQL app...
+下午 10:46:22  [mysql] 	Status change detected: stopped
+下午 10:46:22  [Apache] 	Attempting to stop Apache (PID: 7036)
+下午 10:46:22  [Apache] 	Attempting to stop Apache (PID: 3340)
+下午 10:46:22  [Apache] 	Status change detected: stopped
+下午 10:48:15  [main] 	Deinitializing Modules
+下午 10:48:15  [main] 	Deinitializing Control Panel
+
+下午 08:17:21  [main] 	Initializing Control Panel
+下午 08:17:21  [main] 	Windows Version:  Home  64-bit
+下午 08:17:21  [main] 	XAMPP Version: 5.6.24
+下午 08:17:21  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 08:17:21  [main] 	You are not running with administrator rights! This will work for
+下午 08:17:21  [main] 	most application stuff but whenever you do something with services
+下午 08:17:21  [main] 	there will be a security dialogue or things will break! So think 
+下午 08:17:21  [main] 	about running this application with administrator rights!
+下午 08:17:21  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 08:17:21  [main] 	Checking for prerequisites
+下午 08:17:21  [main] 	All prerequisites found
+下午 08:17:21  [main] 	Initializing Modules
+下午 08:17:21  [main] 	Starting Check-Timer
+下午 08:17:21  [main] 	Control Panel Ready
+下午 08:18:34  [Apache] 	Attempting to start Apache app...
+下午 08:18:34  [Apache] 	Status change detected: running
+下午 08:18:35  [mysql] 	Attempting to start MySQL app...
+下午 08:18:36  [mysql] 	Status change detected: running
+下午 09:35:16  [Apache] 	Attempting to stop Apache (PID: 9164)
+下午 09:35:16  [Apache] 	Attempting to stop Apache (PID: 5108)
+下午 09:35:17  [Apache] 	Status change detected: stopped
+下午 09:35:17  [mysql] 	Attempting to stop MySQL app...
+下午 09:35:18  [mysql] 	Status change detected: stopped
+下午 09:43:34  [main] 	Deinitializing Modules
+下午 09:43:34  [main] 	Deinitializing Control Panel
+
+下午 08:36:09  [main] 	Initializing Control Panel
+下午 08:36:09  [main] 	Windows Version:  Home  64-bit
+下午 08:36:09  [main] 	XAMPP Version: 5.6.24
+下午 08:36:09  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 08:36:09  [main] 	You are not running with administrator rights! This will work for
+下午 08:36:09  [main] 	most application stuff but whenever you do something with services
+下午 08:36:09  [main] 	there will be a security dialogue or things will break! So think 
+下午 08:36:09  [main] 	about running this application with administrator rights!
+下午 08:36:09  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 08:36:09  [main] 	Checking for prerequisites
+下午 08:36:13  [main] 	All prerequisites found
+下午 08:36:13  [main] 	Initializing Modules
+下午 08:36:13  [main] 	Starting Check-Timer
+下午 08:36:13  [main] 	Control Panel Ready
+下午 08:36:30  [Apache] 	Attempting to start Apache app...
+下午 08:36:30  [Apache] 	Status change detected: running
+下午 08:36:30  [mysql] 	Attempting to start MySQL app...
+下午 08:36:31  [mysql] 	Status change detected: running
+下午 10:55:30  [Apache] 	Attempting to stop Apache (PID: 10220)
+下午 10:55:30  [Apache] 	Attempting to stop Apache (PID: 8884)
+下午 10:55:30  [Apache] 	Status change detected: stopped
+下午 10:55:31  [mysql] 	Attempting to stop MySQL app...
+下午 10:55:32  [mysql] 	Status change detected: stopped
+下午 10:55:35  [main] 	Deinitializing Modules
+下午 10:55:35  [main] 	Deinitializing Control Panel
+
+下午 02:43:43  [main] 	Initializing Control Panel
+下午 02:43:43  [main] 	Windows Version:  Home  64-bit
+下午 02:43:43  [main] 	XAMPP Version: 5.6.24
+下午 02:43:43  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 02:43:43  [main] 	You are not running with administrator rights! This will work for
+下午 02:43:43  [main] 	most application stuff but whenever you do something with services
+下午 02:43:43  [main] 	there will be a security dialogue or things will break! So think 
+下午 02:43:43  [main] 	about running this application with administrator rights!
+下午 02:43:43  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 02:43:43  [main] 	Checking for prerequisites
+下午 02:43:47  [main] 	All prerequisites found
+下午 02:43:47  [main] 	Initializing Modules
+下午 02:43:48  [main] 	Starting Check-Timer
+下午 02:43:48  [main] 	Control Panel Ready
+下午 02:43:51  [Apache] 	Attempting to start Apache app...
+下午 02:43:51  [Apache] 	Status change detected: running
+下午 02:43:52  [mysql] 	Attempting to start MySQL app...
+下午 02:43:53  [mysql] 	Status change detected: running
+下午 02:56:18  [Apache] 	Attempting to stop Apache (PID: 5076)
+下午 02:56:18  [Apache] 	Attempting to stop Apache (PID: 3612)
+下午 02:56:18  [Apache] 	Status change detected: stopped
+下午 02:56:18  [mysql] 	Attempting to stop MySQL app...
+下午 02:56:20  [mysql] 	Status change detected: stopped
+下午 04:20:35  [main] 	Deinitializing Modules
+下午 04:20:35  [main] 	Deinitializing Control Panel
+
+下午 02:26:00  [main] 	Initializing Control Panel
+下午 02:26:00  [main] 	Windows Version:  Home  64-bit
+下午 02:26:00  [main] 	XAMPP Version: 5.6.24
+下午 02:26:00  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 02:26:00  [main] 	You are not running with administrator rights! This will work for
+下午 02:26:00  [main] 	most application stuff but whenever you do something with services
+下午 02:26:00  [main] 	there will be a security dialogue or things will break! So think 
+下午 02:26:00  [main] 	about running this application with administrator rights!
+下午 02:26:00  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 02:26:00  [main] 	Checking for prerequisites
+下午 02:26:04  [main] 	All prerequisites found
+下午 02:26:04  [main] 	Initializing Modules
+下午 02:26:04  [main] 	Starting Check-Timer
+下午 02:26:04  [main] 	Control Panel Ready
+下午 02:26:06  [Apache] 	Attempting to start Apache app...
+下午 02:26:07  [mysql] 	Attempting to start MySQL app...
+下午 02:26:08  [Apache] 	Status change detected: running
+下午 02:26:08  [mysql] 	Status change detected: running
+下午 02:30:13  [Apache] 	Attempting to stop Apache (PID: 11248)
+下午 02:30:13  [Apache] 	Attempting to stop Apache (PID: 6488)
+下午 02:30:13  [Apache] 	Status change detected: stopped
+下午 02:30:13  [mysql] 	Attempting to stop MySQL app...
+下午 02:30:15  [mysql] 	Status change detected: stopped
+下午 02:48:05  [main] 	Deinitializing Modules
+下午 02:48:05  [main] 	Deinitializing Control Panel
+
+下午 03:31:54  [main] 	Initializing Control Panel
+下午 03:31:54  [main] 	Windows Version:  Home  64-bit
+下午 03:31:54  [main] 	XAMPP Version: 5.6.24
+下午 03:31:54  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 03:31:54  [main] 	You are not running with administrator rights! This will work for
+下午 03:31:54  [main] 	most application stuff but whenever you do something with services
+下午 03:31:54  [main] 	there will be a security dialogue or things will break! So think 
+下午 03:31:54  [main] 	about running this application with administrator rights!
+下午 03:31:54  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 03:31:54  [main] 	Checking for prerequisites
+下午 03:31:55  [main] 	All prerequisites found
+下午 03:31:55  [main] 	Initializing Modules
+下午 03:31:55  [main] 	Starting Check-Timer
+下午 03:31:55  [main] 	Control Panel Ready
+下午 03:32:04  [Apache] 	Attempting to start Apache app...
+下午 03:32:04  [Apache] 	Status change detected: running
+下午 03:32:05  [mysql] 	Attempting to start MySQL app...
+下午 03:32:07  [mysql] 	Status change detected: running
+下午 05:14:01  [Apache] 	Attempting to stop Apache (PID: 10840)
+下午 05:14:01  [Apache] 	Attempting to stop Apache (PID: 8032)
+下午 05:14:01  [Apache] 	Status change detected: stopped
+下午 05:14:01  [mysql] 	Attempting to stop MySQL app...
+下午 05:14:03  [mysql] 	Status change detected: stopped
+下午 05:14:11  [main] 	Deinitializing Modules
+下午 05:14:11  [main] 	Deinitializing Control Panel
+
+下午 06:52:40  [main] 	Initializing Control Panel
+下午 06:52:40  [main] 	Windows Version:  Home  64-bit
+下午 06:52:40  [main] 	XAMPP Version: 5.6.24
+下午 06:52:40  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 06:52:40  [main] 	You are not running with administrator rights! This will work for
+下午 06:52:40  [main] 	most application stuff but whenever you do something with services
+下午 06:52:40  [main] 	there will be a security dialogue or things will break! So think 
+下午 06:52:40  [main] 	about running this application with administrator rights!
+下午 06:52:40  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 06:52:40  [main] 	Checking for prerequisites
+下午 06:52:40  [main] 	All prerequisites found
+下午 06:52:40  [main] 	Initializing Modules
+下午 06:52:40  [main] 	Starting Check-Timer
+下午 06:52:40  [main] 	Control Panel Ready
+下午 06:52:41  [Apache] 	Attempting to start Apache app...
+下午 06:52:42  [Apache] 	Status change detected: running
+下午 06:52:42  [mysql] 	Attempting to start MySQL app...
+下午 06:52:42  [mysql] 	Status change detected: running
+下午 10:49:45  [main] 	Deinitializing Modules
+下午 10:49:45  [main] 	Deinitializing Control Panel
+
+下午 06:11:03  [main] 	Initializing Control Panel
+下午 06:11:03  [main] 	Windows Version:  Home  64-bit
+下午 06:11:03  [main] 	XAMPP Version: 5.6.24
+下午 06:11:03  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 06:11:03  [main] 	You are not running with administrator rights! This will work for
+下午 06:11:03  [main] 	most application stuff but whenever you do something with services
+下午 06:11:03  [main] 	there will be a security dialogue or things will break! So think 
+下午 06:11:03  [main] 	about running this application with administrator rights!
+下午 06:11:03  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 06:11:03  [main] 	Checking for prerequisites
+下午 06:11:07  [main] 	All prerequisites found
+下午 06:11:07  [main] 	Initializing Modules
+下午 06:11:07  [main] 	Starting Check-Timer
+下午 06:11:07  [main] 	Control Panel Ready
+下午 06:11:10  [Apache] 	Attempting to start Apache app...
+下午 06:11:10  [Apache] 	Status change detected: running
+下午 06:11:11  [mysql] 	Attempting to start MySQL app...
+下午 06:11:11  [mysql] 	Status change detected: running
+下午 06:11:49  [mysql] 	Attempting to stop MySQL app...
+下午 06:11:50  [Apache] 	Attempting to stop Apache (PID: 6508)
+下午 06:11:50  [Apache] 	Attempting to stop Apache (PID: 10660)
+下午 06:11:50  [Apache] 	Status change detected: stopped
+下午 06:11:51  [mysql] 	Status change detected: stopped
+下午 06:52:42  [Apache] 	Status change detected: running
+下午 06:52:42  [mysql] 	Status change detected: running
+下午 11:03:53  [Apache] 	Attempting to stop Apache (PID: 14524)
+下午 11:03:53  [Apache] 	Attempting to stop Apache (PID: 14716)
+下午 11:03:53  [mysql] 	Attempting to stop MySQL app...
+下午 11:03:55  [Apache] 	Status change detected: stopped
+下午 11:03:55  [mysql] 	Status change detected: stopped
+上午 12:37:15  [main] 	Deinitializing Modules
+上午 12:37:15  [main] 	Deinitializing Control Panel
+
+下午 08:55:42  [main] 	Initializing Control Panel
+下午 08:55:42  [main] 	Windows Version:  Home  64-bit
+下午 08:55:42  [main] 	XAMPP Version: 5.6.24
+下午 08:55:42  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 08:55:42  [main] 	You are not running with administrator rights! This will work for
+下午 08:55:42  [main] 	most application stuff but whenever you do something with services
+下午 08:55:42  [main] 	there will be a security dialogue or things will break! So think 
+下午 08:55:42  [main] 	about running this application with administrator rights!
+下午 08:55:42  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 08:55:42  [main] 	Checking for prerequisites
+下午 08:55:50  [main] 	All prerequisites found
+下午 08:55:50  [main] 	Initializing Modules
+下午 08:55:50  [main] 	Starting Check-Timer
+下午 08:55:50  [main] 	Control Panel Ready
+下午 08:57:59  [Apache] 	Attempting to start Apache app...
+下午 08:58:00  [Apache] 	Status change detected: running
+下午 08:58:00  [mysql] 	Attempting to start MySQL app...
+下午 08:58:01  [mysql] 	Status change detected: running
+下午 09:35:44  [Apache] 	Attempting to stop Apache (PID: 9752)
+下午 09:35:44  [Apache] 	Attempting to stop Apache (PID: 7452)
+下午 09:35:44  [Apache] 	Status change detected: stopped
+下午 09:35:44  [mysql] 	Attempting to stop MySQL app...
+下午 09:35:46  [mysql] 	Status change detected: stopped
+下午 11:35:42  [Apache] 	Attempting to start Apache app...
+下午 11:35:43  [Apache] 	Status change detected: running
+下午 11:35:43  [mysql] 	Attempting to start MySQL app...
+下午 11:35:44  [mysql] 	Status change detected: running
+下午 11:43:04  [Apache] 	Attempting to stop Apache (PID: 13216)
+下午 11:43:04  [Apache] 	Attempting to stop Apache (PID: 11448)
+下午 11:43:04  [Apache] 	Status change detected: stopped
+下午 11:43:05  [mysql] 	Attempting to stop MySQL app...
+下午 11:43:06  [mysql] 	Status change detected: stopped
+下午 11:43:13  [main] 	Deinitializing Modules
+下午 11:43:13  [main] 	Deinitializing Control Panel
+
+下午 07:35:53  [main] 	Initializing Control Panel
+下午 07:35:53  [main] 	Windows Version:  Home  64-bit
+下午 07:35:53  [main] 	XAMPP Version: 5.6.24
+下午 07:35:53  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 07:35:53  [main] 	You are not running with administrator rights! This will work for
+下午 07:35:53  [main] 	most application stuff but whenever you do something with services
+下午 07:35:53  [main] 	there will be a security dialogue or things will break! So think 
+下午 07:35:53  [main] 	about running this application with administrator rights!
+下午 07:35:53  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 07:35:53  [main] 	Checking for prerequisites
+下午 07:35:57  [main] 	All prerequisites found
+下午 07:35:57  [main] 	Initializing Modules
+下午 07:35:57  [main] 	Starting Check-Timer
+下午 07:35:57  [main] 	Control Panel Ready
+下午 07:36:32  [Apache] 	Attempting to start Apache app...
+下午 07:36:32  [Apache] 	Status change detected: running
+下午 07:36:32  [mysql] 	Attempting to start MySQL app...
+下午 07:36:34  [mysql] 	Status change detected: running
+下午 08:19:51  [Apache] 	Attempting to stop Apache (PID: 13968)
+下午 08:19:51  [Apache] 	Attempting to stop Apache (PID: 12748)
+下午 08:19:51  [Apache] 	Status change detected: stopped
+下午 08:19:52  [mysql] 	Attempting to stop MySQL app...
+下午 08:19:53  [mysql] 	Status change detected: stopped
+下午 08:19:54  [mysql] 	Attempting to start MySQL app...
+下午 08:19:54  [mysql] 	Status change detected: running
+下午 08:19:55  [Apache] 	Attempting to start Apache app...
+下午 08:19:55  [Apache] 	Status change detected: running
+下午 11:55:09  [Apache] 	Attempting to stop Apache (PID: 7176)
+下午 11:55:09  [Apache] 	Attempting to stop Apache (PID: 14108)
+下午 11:55:09  [Apache] 	Status change detected: stopped
+下午 11:55:09  [mysql] 	Attempting to stop MySQL app...
+下午 11:55:10  [mysql] 	Status change detected: stopped
+下午 11:55:22  [main] 	Deinitializing Modules
+下午 11:55:22  [main] 	Deinitializing Control Panel
+
+下午 03:29:21  [main] 	Initializing Control Panel
+下午 03:29:21  [main] 	Windows Version:  Home  64-bit
+下午 03:29:21  [main] 	XAMPP Version: 5.6.24
+下午 03:29:21  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 03:29:21  [main] 	You are not running with administrator rights! This will work for
+下午 03:29:21  [main] 	most application stuff but whenever you do something with services
+下午 03:29:21  [main] 	there will be a security dialogue or things will break! So think 
+下午 03:29:21  [main] 	about running this application with administrator rights!
+下午 03:29:21  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 03:29:21  [main] 	Checking for prerequisites
+下午 03:29:33  [main] 	All prerequisites found
+下午 03:29:33  [main] 	Initializing Modules
+下午 03:29:33  [main] 	Starting Check-Timer
+下午 03:29:33  [main] 	Control Panel Ready
+下午 03:29:41  [Apache] 	Attempting to start Apache app...
+下午 03:29:42  [Apache] 	Status change detected: running
+下午 03:29:42  [mysql] 	Attempting to start MySQL app...
+下午 03:29:43  [mysql] 	Status change detected: running
+下午 03:43:15  [Apache] 	Attempting to stop Apache (PID: 800)
+下午 03:43:15  [Apache] 	Attempting to stop Apache (PID: 2852)
+下午 03:43:15  [Apache] 	Status change detected: stopped
+下午 03:43:15  [mysql] 	Attempting to stop MySQL app...
+下午 03:43:17  [mysql] 	Status change detected: stopped
+下午 03:43:21  [main] 	Deinitializing Modules
+下午 03:43:21  [main] 	Deinitializing Control Panel
+
+下午 07:40:05  [main] 	Initializing Control Panel
+下午 07:40:05  [main] 	Windows Version:  Home  64-bit
+下午 07:40:05  [main] 	XAMPP Version: 5.6.24
+下午 07:40:05  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 07:40:05  [main] 	You are not running with administrator rights! This will work for
+下午 07:40:05  [main] 	most application stuff but whenever you do something with services
+下午 07:40:05  [main] 	there will be a security dialogue or things will break! So think 
+下午 07:40:05  [main] 	about running this application with administrator rights!
+下午 07:40:05  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 07:40:05  [main] 	Checking for prerequisites
+下午 07:40:06  [main] 	All prerequisites found
+下午 07:40:06  [main] 	Initializing Modules
+下午 07:40:06  [main] 	Starting Check-Timer
+下午 07:40:06  [main] 	Control Panel Ready
+下午 07:43:02  [Apache] 	Attempting to start Apache app...
+下午 07:43:02  [mysql] 	Attempting to start MySQL app...
+下午 07:43:03  [Apache] 	Status change detected: running
+下午 07:43:03  [mysql] 	Status change detected: running
+下午 10:23:22  [Apache] 	Attempting to stop Apache (PID: 9080)
+下午 10:23:22  [Apache] 	Attempting to stop Apache (PID: 8604)
+下午 10:23:23  [mysql] 	Attempting to stop MySQL app...
+下午 10:23:24  [Apache] 	Status change detected: stopped
+下午 10:23:24  [mysql] 	Status change detected: stopped
+下午 11:49:29  [main] 	Deinitializing Modules
+下午 11:49:29  [main] 	Deinitializing Control Panel
+
+下午 09:21:19  [main] 	Initializing Control Panel
+下午 09:21:19  [main] 	Windows Version:  Home  64-bit
+下午 09:21:19  [main] 	XAMPP Version: 5.6.24
+下午 09:21:19  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 09:21:19  [main] 	You are not running with administrator rights! This will work for
+下午 09:21:19  [main] 	most application stuff but whenever you do something with services
+下午 09:21:19  [main] 	there will be a security dialogue or things will break! So think 
+下午 09:21:19  [main] 	about running this application with administrator rights!
+下午 09:21:19  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 09:21:19  [main] 	Checking for prerequisites
+下午 09:21:37  [main] 	All prerequisites found
+下午 09:21:37  [main] 	Initializing Modules
+下午 09:21:37  [main] 	Starting Check-Timer
+下午 09:21:37  [main] 	Control Panel Ready
+下午 09:21:39  [Apache] 	Attempting to start Apache app...
+下午 09:21:39  [mysql] 	Attempting to start MySQL app...
+下午 09:21:41  [Apache] 	Status change detected: running
+下午 09:21:41  [mysql] 	Status change detected: running
+下午 10:26:45  [Apache] 	Attempting to stop Apache (PID: 2964)
+下午 10:26:45  [Apache] 	Attempting to stop Apache (PID: 10320)
+下午 10:26:45  [Apache] 	Status change detected: stopped
+下午 10:26:46  [mysql] 	Attempting to stop MySQL app...
+下午 10:26:48  [mysql] 	Status change detected: stopped
+下午 10:26:54  [Apache] 	Attempting to start Apache app...
+下午 10:26:54  [Apache] 	Status change detected: running
+下午 10:26:54  [mysql] 	Attempting to start MySQL app...
+下午 10:26:55  [mysql] 	Status change detected: running
+下午 10:27:38  [Apache] 	Attempting to stop Apache (PID: 5600)
+下午 10:27:38  [Apache] 	Attempting to stop Apache (PID: 4896)
+下午 10:27:39  [Apache] 	Status change detected: stopped
+下午 10:27:39  [mysql] 	Attempting to stop MySQL app...
+下午 10:27:39  [mysql] 	Status change detected: stopped
+下午 10:28:46  [main] 	Deinitializing Modules
+下午 10:28:46  [main] 	Deinitializing Control Panel
+
+下午 10:52:57  [main] 	Initializing Control Panel
+下午 10:52:57  [main] 	Windows Version:  Home  64-bit
+下午 10:52:57  [main] 	XAMPP Version: 5.6.24
+下午 10:52:57  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 10:52:57  [main] 	You are not running with administrator rights! This will work for
+下午 10:52:57  [main] 	most application stuff but whenever you do something with services
+下午 10:52:57  [main] 	there will be a security dialogue or things will break! So think 
+下午 10:52:57  [main] 	about running this application with administrator rights!
+下午 10:52:57  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 10:52:57  [main] 	Checking for prerequisites
+下午 10:52:57  [main] 	All prerequisites found
+下午 10:52:57  [main] 	Initializing Modules
+下午 10:52:57  [main] 	Starting Check-Timer
+下午 10:52:57  [main] 	Control Panel Ready
+下午 10:53:02  [Apache] 	Attempting to start Apache app...
+下午 10:53:02  [Apache] 	Status change detected: running
+下午 10:53:02  [mysql] 	Attempting to start MySQL app...
+下午 10:53:03  [mysql] 	Status change detected: running
+下午 10:53:25  [mysql] 	Attempting to stop MySQL app...
+下午 10:53:25  [Apache] 	Attempting to stop Apache (PID: 9060)
+下午 10:53:25  [Apache] 	Attempting to stop Apache (PID: 11192)
+下午 10:53:26  [Apache] 	Status change detected: stopped
+下午 10:53:26  [mysql] 	Status change detected: stopped
+下午 10:53:29  [main] 	Deinitializing Modules
+下午 10:53:29  [main] 	Deinitializing Control Panel
+
+下午 11:45:07  [main] 	Initializing Control Panel
+下午 11:45:07  [main] 	Windows Version:  Home  64-bit
+下午 11:45:07  [main] 	XAMPP Version: 5.6.24
+下午 11:45:07  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 11:45:07  [main] 	You are not running with administrator rights! This will work for
+下午 11:45:07  [main] 	most application stuff but whenever you do something with services
+下午 11:45:07  [main] 	there will be a security dialogue or things will break! So think 
+下午 11:45:07  [main] 	about running this application with administrator rights!
+下午 11:45:07  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 11:45:07  [main] 	Checking for prerequisites
+下午 11:45:07  [main] 	All prerequisites found
+下午 11:45:07  [main] 	Initializing Modules
+下午 11:45:07  [main] 	Starting Check-Timer
+下午 11:45:07  [main] 	Control Panel Ready
+下午 11:45:09  [Apache] 	Attempting to start Apache app...
+下午 11:45:09  [Apache] 	Status change detected: running
+下午 11:45:10  [mysql] 	Attempting to start MySQL app...
+下午 11:45:10  [mysql] 	Status change detected: running
+下午 11:56:55  [Apache] 	Attempting to stop Apache (PID: 7196)
+下午 11:56:56  [Apache] 	Attempting to stop Apache (PID: 3352)
+下午 11:56:56  [Apache] 	Status change detected: stopped
+下午 11:56:56  [mysql] 	Attempting to stop MySQL app...
+下午 11:56:57  [mysql] 	Status change detected: stopped
+下午 11:57:01  [main] 	Deinitializing Modules
+下午 11:57:01  [main] 	Deinitializing Control Panel
+
+下午 09:26:16  [main] 	Initializing Control Panel
+下午 09:26:16  [main] 	Windows Version:  Home  64-bit
+下午 09:26:16  [main] 	XAMPP Version: 5.6.24
+下午 09:26:16  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 09:26:16  [main] 	You are not running with administrator rights! This will work for
+下午 09:26:16  [main] 	most application stuff but whenever you do something with services
+下午 09:26:16  [main] 	there will be a security dialogue or things will break! So think 
+下午 09:26:16  [main] 	about running this application with administrator rights!
+下午 09:26:16  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 09:26:16  [main] 	Checking for prerequisites
+下午 09:26:21  [main] 	All prerequisites found
+下午 09:26:21  [main] 	Initializing Modules
+下午 09:26:21  [main] 	Starting Check-Timer
+下午 09:26:21  [main] 	Control Panel Ready
+下午 09:26:22  [mysql] 	Attempting to start MySQL app...
+下午 09:26:23  [Apache] 	Attempting to start Apache app...
+下午 09:26:24  [Apache] 	Status change detected: running
+下午 09:26:24  [mysql] 	Status change detected: running
+上午 12:32:13  [main] 	Deinitializing Modules
+上午 12:32:13  [main] 	Deinitializing Control Panel
+
+下午 02:41:23  [main] 	Initializing Control Panel
+下午 02:41:23  [main] 	Windows Version:  Home  64-bit
+下午 02:41:23  [main] 	XAMPP Version: 5.6.24
+下午 02:41:23  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 02:41:23  [main] 	You are not running with administrator rights! This will work for
+下午 02:41:23  [main] 	most application stuff but whenever you do something with services
+下午 02:41:23  [main] 	there will be a security dialogue or things will break! So think 
+下午 02:41:23  [main] 	about running this application with administrator rights!
+下午 02:41:23  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 02:41:23  [main] 	Checking for prerequisites
+下午 02:41:28  [main] 	All prerequisites found
+下午 02:41:28  [main] 	Initializing Modules
+下午 02:41:28  [main] 	Starting Check-Timer
+下午 02:41:28  [main] 	Control Panel Ready
+下午 02:41:31  [Apache] 	Attempting to start Apache app...
+下午 02:41:31  [Apache] 	Status change detected: running
+下午 02:41:32  [mysql] 	Attempting to start MySQL app...
+下午 02:41:35  [mysql] 	Status change detected: running
+下午 05:38:28  [Apache] 	Attempting to stop Apache (PID: 7276)
+下午 05:38:28  [Apache] 	Attempting to stop Apache (PID: 12792)
+下午 05:38:28  [mysql] 	Attempting to stop MySQL app...
+下午 05:38:31  [Apache] 	Status change detected: stopped
+下午 05:38:31  [mysql] 	Status change detected: stopped
+下午 05:40:52  [main] 	Deinitializing Modules
+下午 05:40:52  [main] 	Deinitializing Control Panel
+
+下午 03:04:22  [main] 	Initializing Control Panel
+下午 03:04:22  [main] 	Windows Version:  Home  64-bit
+下午 03:04:22  [main] 	XAMPP Version: 5.6.24
+下午 03:04:22  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 03:04:22  [main] 	You are not running with administrator rights! This will work for
+下午 03:04:22  [main] 	most application stuff but whenever you do something with services
+下午 03:04:22  [main] 	there will be a security dialogue or things will break! So think 
+下午 03:04:22  [main] 	about running this application with administrator rights!
+下午 03:04:22  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 03:04:23  [main] 	Checking for prerequisites
+下午 03:04:23  [main] 	All prerequisites found
+下午 03:04:23  [main] 	Initializing Modules
+下午 03:04:23  [main] 	Starting Check-Timer
+下午 03:04:23  [main] 	Control Panel Ready
+下午 03:04:24  [Apache] 	Attempting to start Apache app...
+下午 03:04:24  [Apache] 	Status change detected: running
+下午 03:04:25  [mysql] 	Attempting to start MySQL app...
+下午 03:04:27  [mysql] 	Status change detected: running
+下午 05:52:23  [main] 	Deinitializing Modules
+下午 05:52:23  [main] 	Deinitializing Control Panel
+
+下午 12:13:52  [main] 	Initializing Control Panel
+下午 12:13:52  [main] 	Windows Version:  Home  64-bit
+下午 12:13:52  [main] 	XAMPP Version: 5.6.24
+下午 12:13:52  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 12:13:52  [main] 	You are not running with administrator rights! This will work for
+下午 12:13:52  [main] 	most application stuff but whenever you do something with services
+下午 12:13:52  [main] 	there will be a security dialogue or things will break! So think 
+下午 12:13:52  [main] 	about running this application with administrator rights!
+下午 12:13:52  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 12:13:52  [main] 	Checking for prerequisites
+下午 12:14:00  [main] 	All prerequisites found
+下午 12:14:00  [main] 	Initializing Modules
+下午 12:14:00  [main] 	Starting Check-Timer
+下午 12:14:00  [main] 	Control Panel Ready
+下午 12:14:02  [Apache] 	Attempting to start Apache app...
+下午 12:14:02  [Apache] 	Status change detected: running
+下午 12:14:03  [mysql] 	Attempting to start MySQL app...
+下午 12:14:04  [mysql] 	Status change detected: running
+下午 04:30:57  [Apache] 	Attempting to stop Apache (PID: 8228)
+下午 04:30:57  [Apache] 	Attempting to stop Apache (PID: 8764)
+下午 04:30:58  [mysql] 	Attempting to stop MySQL app...
+下午 04:30:59  [Apache] 	Status change detected: stopped
+下午 04:30:59  [mysql] 	Status change detected: stopped
+下午 04:33:58  [main] 	Deinitializing Modules
+下午 04:33:58  [main] 	Deinitializing Control Panel
+
+下午 05:26:28  [main] 	Initializing Control Panel
+下午 05:26:28  [main] 	Windows Version:  Home  64-bit
+下午 05:26:28  [main] 	XAMPP Version: 5.6.24
+下午 05:26:28  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 05:26:28  [main] 	You are not running with administrator rights! This will work for
+下午 05:26:28  [main] 	most application stuff but whenever you do something with services
+下午 05:26:28  [main] 	there will be a security dialogue or things will break! So think 
+下午 05:26:28  [main] 	about running this application with administrator rights!
+下午 05:26:28  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 05:26:28  [main] 	Checking for prerequisites
+下午 05:26:28  [main] 	All prerequisites found
+下午 05:26:28  [main] 	Initializing Modules
+下午 05:26:28  [main] 	Starting Check-Timer
+下午 05:26:28  [main] 	Control Panel Ready
+下午 05:26:30  [Apache] 	Attempting to start Apache app...
+下午 05:26:30  [Apache] 	Status change detected: running
+下午 05:26:30  [mysql] 	Attempting to start MySQL app...
+下午 05:26:32  [mysql] 	Status change detected: running
+下午 07:21:57  [Apache] 	Attempting to stop Apache (PID: 2800)
+下午 07:21:57  [Apache] 	Attempting to stop Apache (PID: 3668)
+下午 07:21:58  [Apache] 	Status change detected: stopped
+下午 07:21:58  [mysql] 	Attempting to stop MySQL app...
+下午 07:21:59  [mysql] 	Status change detected: stopped
+下午 07:22:00  [main] 	Deinitializing Modules
+下午 07:22:00  [main] 	Deinitializing Control Panel
+
+下午 07:28:07  [main] 	Initializing Control Panel
+下午 07:28:07  [main] 	Windows Version:  Home  64-bit
+下午 07:28:07  [main] 	XAMPP Version: 5.6.24
+下午 07:28:07  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 07:28:07  [main] 	You are not running with administrator rights! This will work for
+下午 07:28:07  [main] 	most application stuff but whenever you do something with services
+下午 07:28:07  [main] 	there will be a security dialogue or things will break! So think 
+下午 07:28:07  [main] 	about running this application with administrator rights!
+下午 07:28:07  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 07:28:07  [main] 	Checking for prerequisites
+下午 07:28:08  [main] 	All prerequisites found
+下午 07:28:08  [main] 	Initializing Modules
+下午 07:28:08  [main] 	Starting Check-Timer
+下午 07:28:08  [main] 	Control Panel Ready
+下午 07:28:14  [mysql] 	Attempting to start MySQL app...
+下午 07:28:16  [Apache] 	Attempting to start Apache app...
+下午 07:28:16  [Apache] 	Status change detected: running
+下午 07:28:16  [mysql] 	Status change detected: running
+下午 07:58:51  [mysql] 	Attempting to stop MySQL app...
+下午 07:58:52  [Apache] 	Attempting to stop Apache (PID: 4740)
+下午 07:58:52  [Apache] 	Attempting to stop Apache (PID: 6824)
+下午 07:58:52  [Apache] 	Status change detected: stopped
+下午 07:58:52  [mysql] 	Status change detected: stopped
+下午 08:24:58  [main] 	Deinitializing Modules
+下午 08:24:58  [main] 	Deinitializing Control Panel
+
+下午 02:05:11  [main] 	Initializing Control Panel
+下午 02:05:11  [main] 	Windows Version:  Home  64-bit
+下午 02:05:11  [main] 	XAMPP Version: 5.6.24
+下午 02:05:11  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 02:05:11  [main] 	You are not running with administrator rights! This will work for
+下午 02:05:11  [main] 	most application stuff but whenever you do something with services
+下午 02:05:11  [main] 	there will be a security dialogue or things will break! So think 
+下午 02:05:11  [main] 	about running this application with administrator rights!
+下午 02:05:11  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 02:05:11  [main] 	Checking for prerequisites
+下午 02:05:12  [main] 	All prerequisites found
+下午 02:05:12  [main] 	Initializing Modules
+下午 02:05:12  [main] 	Starting Check-Timer
+下午 02:05:12  [main] 	Control Panel Ready
+下午 02:05:14  [Apache] 	Attempting to start Apache app...
+下午 02:05:14  [Apache] 	Status change detected: running
+下午 02:05:14  [mysql] 	Attempting to start MySQL app...
+下午 02:05:17  [mysql] 	Status change detected: running
+下午 02:08:27  [mysql] 	Attempting to stop MySQL app...
+下午 02:08:28  [Apache] 	Attempting to stop Apache (PID: 6820)
+下午 02:08:28  [Apache] 	Attempting to stop Apache (PID: 3088)
+下午 02:08:28  [Apache] 	Status change detected: stopped
+下午 02:08:28  [mysql] 	Status change detected: stopped
+下午 02:22:38  [main] 	Deinitializing Modules
+下午 02:22:38  [main] 	Deinitializing Control Panel
+
+下午 01:48:39  [main] 	Initializing Control Panel
+下午 01:48:39  [main] 	Windows Version:  Home  64-bit
+下午 01:48:40  [main] 	XAMPP Version: 5.6.24
+下午 01:48:40  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 01:48:40  [main] 	You are not running with administrator rights! This will work for
+下午 01:48:40  [main] 	most application stuff but whenever you do something with services
+下午 01:48:40  [main] 	there will be a security dialogue or things will break! So think 
+下午 01:48:40  [main] 	about running this application with administrator rights!
+下午 01:48:40  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 01:48:40  [main] 	Checking for prerequisites
+下午 01:48:41  [main] 	All prerequisites found
+下午 01:48:41  [main] 	Initializing Modules
+下午 01:48:41  [main] 	Starting Check-Timer
+下午 01:48:41  [main] 	Control Panel Ready
+下午 01:48:44  [Apache] 	Attempting to start Apache app...
+下午 01:48:44  [Apache] 	Status change detected: running
+下午 01:48:45  [mysql] 	Attempting to start MySQL app...
+下午 01:48:47  [mysql] 	Status change detected: running
+下午 04:46:31  [Apache] 	Attempting to stop Apache (PID: 6504)
+下午 04:46:31  [Apache] 	Attempting to stop Apache (PID: 2092)
+下午 04:46:31  [Apache] 	Status change detected: stopped
+下午 04:46:31  [mysql] 	Attempting to stop MySQL app...
+下午 04:46:32  [mysql] 	Status change detected: stopped
+下午 04:46:33  [main] 	Deinitializing Modules
+下午 04:46:33  [main] 	Deinitializing Control Panel
+
+下午 05:04:13  [main] 	Initializing Control Panel
+下午 05:04:13  [main] 	Windows Version:  Home  64-bit
+下午 05:04:13  [main] 	XAMPP Version: 5.6.24
+下午 05:04:13  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 05:04:13  [main] 	You are not running with administrator rights! This will work for
+下午 05:04:13  [main] 	most application stuff but whenever you do something with services
+下午 05:04:13  [main] 	there will be a security dialogue or things will break! So think 
+下午 05:04:13  [main] 	about running this application with administrator rights!
+下午 05:04:13  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 05:04:13  [main] 	Checking for prerequisites
+下午 05:04:13  [main] 	All prerequisites found
+下午 05:04:13  [main] 	Initializing Modules
+下午 05:04:13  [main] 	Starting Check-Timer
+下午 05:04:13  [main] 	Control Panel Ready
+下午 05:04:15  [Apache] 	Attempting to start Apache app...
+下午 05:04:15  [Apache] 	Status change detected: running
+下午 05:04:15  [mysql] 	Attempting to start MySQL app...
+下午 05:04:17  [mysql] 	Status change detected: running
+下午 05:22:28  [Apache] 	Attempting to stop Apache (PID: 10132)
+下午 05:22:28  [Apache] 	Attempting to stop Apache (PID: 9644)
+下午 05:22:28  [Apache] 	Status change detected: stopped
+下午 05:22:29  [mysql] 	Attempting to stop MySQL app...
+下午 05:22:29  [mysql] 	Status change detected: stopped
+下午 05:22:31  [main] 	Deinitializing Modules
+下午 05:22:31  [main] 	Deinitializing Control Panel
+
+下午 01:13:33  [main] 	Initializing Control Panel
+下午 01:13:33  [main] 	Windows Version:  Home  64-bit
+下午 01:13:33  [main] 	XAMPP Version: 5.6.24
+下午 01:13:33  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 01:13:33  [main] 	You are not running with administrator rights! This will work for
+下午 01:13:33  [main] 	most application stuff but whenever you do something with services
+下午 01:13:33  [main] 	there will be a security dialogue or things will break! So think 
+下午 01:13:33  [main] 	about running this application with administrator rights!
+下午 01:13:33  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 01:13:33  [main] 	Checking for prerequisites
+下午 01:13:34  [main] 	All prerequisites found
+下午 01:13:34  [main] 	Initializing Modules
+下午 01:13:34  [main] 	Starting Check-Timer
+下午 01:13:34  [main] 	Control Panel Ready
+下午 01:13:37  [Apache] 	Attempting to start Apache app...
+下午 01:13:37  [Apache] 	Status change detected: running
+下午 01:13:38  [mysql] 	Attempting to start MySQL app...
+下午 01:13:43  [mysql] 	Status change detected: running
+下午 11:59:25  [Apache] 	Attempting to stop Apache (PID: 232)
+下午 11:59:25  [Apache] 	Attempting to stop Apache (PID: 3600)
+下午 11:59:25  [Apache] 	Status change detected: stopped
+下午 11:59:25  [mysql] 	Attempting to stop MySQL app...
+下午 11:59:26  [mysql] 	Status change detected: stopped
+下午 11:59:27  [main] 	Deinitializing Modules
+下午 11:59:27  [main] 	Deinitializing Control Panel
+
+下午 12:44:37  [main] 	Initializing Control Panel
+下午 12:44:37  [main] 	Windows Version:  Home  64-bit
+下午 12:44:37  [main] 	XAMPP Version: 5.6.24
+下午 12:44:37  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 12:44:37  [main] 	You are not running with administrator rights! This will work for
+下午 12:44:37  [main] 	most application stuff but whenever you do something with services
+下午 12:44:37  [main] 	there will be a security dialogue or things will break! So think 
+下午 12:44:37  [main] 	about running this application with administrator rights!
+下午 12:44:37  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 12:44:37  [main] 	Checking for prerequisites
+下午 12:44:38  [main] 	All prerequisites found
+下午 12:44:38  [main] 	Initializing Modules
+下午 12:44:38  [main] 	Starting Check-Timer
+下午 12:44:38  [main] 	Control Panel Ready
+下午 12:44:42  [Apache] 	Attempting to start Apache app...
+下午 12:44:42  [Apache] 	Status change detected: running
+下午 12:44:42  [mysql] 	Attempting to start MySQL app...
+下午 12:44:47  [mysql] 	Status change detected: running
+下午 01:18:39  [main] 	Deinitializing Modules
+下午 01:18:40  [main] 	Deinitializing Control Panel
+
+下午 04:57:08  [main] 	Initializing Control Panel
+下午 04:57:08  [main] 	Windows Version:  Home  64-bit
+下午 04:57:08  [main] 	XAMPP Version: 5.6.24
+下午 04:57:08  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 04:57:08  [main] 	You are not running with administrator rights! This will work for
+下午 04:57:08  [main] 	most application stuff but whenever you do something with services
+下午 04:57:08  [main] 	there will be a security dialogue or things will break! So think 
+下午 04:57:08  [main] 	about running this application with administrator rights!
+下午 04:57:08  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 04:57:08  [main] 	Checking for prerequisites
+下午 04:57:08  [main] 	All prerequisites found
+下午 04:57:08  [main] 	Initializing Modules
+下午 04:57:08  [main] 	Starting Check-Timer
+下午 04:57:08  [main] 	Control Panel Ready
+下午 04:57:10  [Apache] 	Attempting to start Apache app...
+下午 04:57:11  [Apache] 	Status change detected: running
+下午 04:57:11  [mysql] 	Attempting to start MySQL app...
+下午 04:57:13  [mysql] 	Status change detected: running
+下午 07:39:20  [Apache] 	Attempting to stop Apache (PID: 8988)
+下午 07:39:20  [Apache] 	Attempting to stop Apache (PID: 3684)
+下午 07:39:21  [Apache] 	Status change detected: stopped
+下午 07:39:21  [mysql] 	Attempting to stop MySQL app...
+下午 07:39:22  [mysql] 	Status change detected: stopped
+下午 07:39:24  [main] 	Deinitializing Modules
+下午 07:39:24  [main] 	Deinitializing Control Panel
+
+下午 11:44:20  [main] 	Initializing Control Panel
+下午 11:44:20  [main] 	Windows Version:  Home  64-bit
+下午 11:44:20  [main] 	XAMPP Version: 5.6.24
+下午 11:44:20  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 11:44:20  [main] 	You are not running with administrator rights! This will work for
+下午 11:44:20  [main] 	most application stuff but whenever you do something with services
+下午 11:44:20  [main] 	there will be a security dialogue or things will break! So think 
+下午 11:44:20  [main] 	about running this application with administrator rights!
+下午 11:44:20  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 11:44:20  [main] 	Checking for prerequisites
+下午 11:44:21  [main] 	All prerequisites found
+下午 11:44:21  [main] 	Initializing Modules
+下午 11:44:21  [main] 	Starting Check-Timer
+下午 11:44:21  [main] 	Control Panel Ready
+下午 11:44:25  [Apache] 	Attempting to start Apache app...
+下午 11:44:25  [Apache] 	Status change detected: running
+下午 11:44:25  [mysql] 	Attempting to start MySQL app...
+下午 11:44:27  [mysql] 	Status change detected: running
+上午 12:09:58  [Apache] 	Attempting to stop Apache (PID: 6616)
+上午 12:09:58  [Apache] 	Attempting to stop Apache (PID: 8204)
+上午 12:09:58  [mysql] 	Attempting to stop MySQL app...
+上午 12:09:59  [Apache] 	Status change detected: stopped
+上午 12:09:59  [mysql] 	Status change detected: stopped
+上午 12:10:01  [main] 	Deinitializing Modules
+上午 12:10:01  [main] 	Deinitializing Control Panel
+
+下午 07:52:24  [main] 	Initializing Control Panel
+下午 07:52:24  [main] 	Windows Version:  Home  64-bit
+下午 07:52:24  [main] 	XAMPP Version: 5.6.24
+下午 07:52:24  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 07:52:24  [main] 	You are not running with administrator rights! This will work for
+下午 07:52:24  [main] 	most application stuff but whenever you do something with services
+下午 07:52:24  [main] 	there will be a security dialogue or things will break! So think 
+下午 07:52:24  [main] 	about running this application with administrator rights!
+下午 07:52:24  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 07:52:24  [main] 	Checking for prerequisites
+下午 07:52:25  [main] 	All prerequisites found
+下午 07:52:25  [main] 	Initializing Modules
+下午 07:52:25  [main] 	Starting Check-Timer
+下午 07:52:25  [main] 	Control Panel Ready
+下午 07:52:28  [Apache] 	Attempting to start Apache app...
+下午 07:52:29  [Apache] 	Status change detected: running
+下午 07:52:29  [mysql] 	Attempting to start MySQL app...
+下午 07:52:31  [mysql] 	Status change detected: running
+下午 10:40:43  [mysql] 	Attempting to stop MySQL app...
+下午 10:40:43  [Apache] 	Attempting to stop Apache (PID: 8804)
+下午 10:40:44  [Apache] 	Attempting to stop Apache (PID: 8588)
+下午 10:40:44  [Apache] 	Status change detected: stopped
+下午 10:40:44  [mysql] 	Status change detected: stopped
+上午 12:21:15  [main] 	Deinitializing Modules
+上午 12:21:15  [main] 	Deinitializing Control Panel
+
+上午 08:30:24  [main] 	Initializing Control Panel
+上午 08:30:24  [main] 	Windows Version:  Home  64-bit
+上午 08:30:24  [main] 	XAMPP Version: 5.6.24
+上午 08:30:24  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+上午 08:30:24  [main] 	You are not running with administrator rights! This will work for
+上午 08:30:24  [main] 	most application stuff but whenever you do something with services
+上午 08:30:24  [main] 	there will be a security dialogue or things will break! So think 
+上午 08:30:24  [main] 	about running this application with administrator rights!
+上午 08:30:24  [main] 	XAMPP Installation Directory: "c:\xampp\"
+上午 08:30:24  [main] 	Checking for prerequisites
+上午 08:30:25  [main] 	All prerequisites found
+上午 08:30:25  [main] 	Initializing Modules
+上午 08:30:25  [main] 	Starting Check-Timer
+上午 08:30:25  [main] 	Control Panel Ready
+上午 08:30:31  [mysql] 	Attempting to start MySQL app...
+上午 08:30:34  [Apache] 	Attempting to start Apache app...
+上午 08:30:34  [Apache] 	Status change detected: running
+上午 08:30:34  [mysql] 	Status change detected: running
+上午 08:43:30  [mysql] 	Attempting to stop MySQL app...
+上午 08:43:30  [Apache] 	Attempting to stop Apache (PID: 6656)
+上午 08:43:30  [Apache] 	Attempting to stop Apache (PID: 3312)
+上午 08:43:30  [Apache] 	Status change detected: stopped
+上午 08:43:30  [mysql] 	Status change detected: stopped
+上午 08:43:32  [main] 	Deinitializing Modules
+上午 08:43:32  [main] 	Deinitializing Control Panel
+
+下午 08:25:19  [main] 	Initializing Control Panel
+下午 08:25:19  [main] 	Windows Version:  Home  64-bit
+下午 08:25:19  [main] 	XAMPP Version: 5.6.24
+下午 08:25:19  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 08:25:19  [main] 	You are not running with administrator rights! This will work for
+下午 08:25:19  [main] 	most application stuff but whenever you do something with services
+下午 08:25:19  [main] 	there will be a security dialogue or things will break! So think 
+下午 08:25:19  [main] 	about running this application with administrator rights!
+下午 08:25:19  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 08:25:19  [main] 	Checking for prerequisites
+下午 08:25:20  [main] 	All prerequisites found
+下午 08:25:20  [main] 	Initializing Modules
+下午 08:25:20  [main] 	Starting Check-Timer
+下午 08:25:20  [main] 	Control Panel Ready
+下午 08:25:24  [Apache] 	Attempting to start Apache app...
+下午 08:25:25  [Apache] 	Status change detected: running
+下午 08:25:25  [mysql] 	Attempting to start MySQL app...
+下午 08:25:27  [mysql] 	Status change detected: running
+上午 12:01:25  [Apache] 	Status change detected: stopped
+上午 12:01:25  [Apache] 	Error: Apache shutdown unexpectedly.
+上午 12:01:25  [Apache] 	This may be due to a blocked port, missing dependencies, 
+上午 12:01:25  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+上午 12:01:25  [Apache] 	Press the Logs button to view error logs and check
+上午 12:01:25  [Apache] 	the Windows Event Viewer for more clues
+上午 12:01:25  [Apache] 	If you need more help, copy and post this
+上午 12:01:25  [Apache] 	entire log window on the forums
+上午 12:01:26  [Apache] 	Status change detected: running
+上午 12:03:12  [main] 	Deinitializing Modules
+上午 12:03:12  [main] 	Deinitializing Control Panel
+
+上午 12:01:22  [main] 	Initializing Control Panel
+上午 12:01:22  [main] 	Windows Version:  Home  64-bit
+上午 12:01:22  [main] 	XAMPP Version: 5.6.24
+上午 12:01:22  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+上午 12:01:22  [main] 	You are not running with administrator rights! This will work for
+上午 12:01:22  [main] 	most application stuff but whenever you do something with services
+上午 12:01:22  [main] 	there will be a security dialogue or things will break! So think 
+上午 12:01:22  [main] 	about running this application with administrator rights!
+上午 12:01:22  [main] 	XAMPP Installation Directory: "c:\xampp\"
+上午 12:01:22  [main] 	Checking for prerequisites
+上午 12:01:23  [main] 	All prerequisites found
+上午 12:01:23  [main] 	Initializing Modules
+上午 12:01:23  [Apache] 	XAMPP Apache is already running on port 80
+上午 12:01:23  [Apache] 	XAMPP Apache is already running on port 443
+上午 12:01:23  [mysql] 	XAMPP MySQL is already running on port 3306
+上午 12:01:23  [main] 	Starting Check-Timer
+上午 12:01:23  [main] 	Control Panel Ready
+上午 12:01:25  [Apache] 	Attempting to stop Apache (PID: 4256)
+上午 12:01:25  [Apache] 	Attempting to stop Apache (PID: 5692)
+上午 12:01:25  [Apache] 	Status change detected: stopped
+上午 12:01:26  [Apache] 	Attempting to start Apache app...
+上午 12:01:26  [Apache] 	Status change detected: running
+上午 12:06:18  [Apache] 	Attempting to stop Apache (PID: 4172)
+上午 12:06:18  [Apache] 	Attempting to stop Apache (PID: 7764)
+上午 12:06:19  [Apache] 	Status change detected: stopped
+上午 12:06:19  [mysql] 	Attempting to stop MySQL app...
+上午 12:06:20  [mysql] 	Status change detected: stopped
+上午 12:06:21  [main] 	Deinitializing Modules
+上午 12:06:21  [main] 	Deinitializing Control Panel
+
+下午 12:50:28  [main] 	Initializing Control Panel
+下午 12:50:28  [main] 	Windows Version:  Home  64-bit
+下午 12:50:28  [main] 	XAMPP Version: 5.6.24
+下午 12:50:28  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 12:50:28  [main] 	You are not running with administrator rights! This will work for
+下午 12:50:28  [main] 	most application stuff but whenever you do something with services
+下午 12:50:28  [main] 	there will be a security dialogue or things will break! So think 
+下午 12:50:28  [main] 	about running this application with administrator rights!
+下午 12:50:28  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 12:50:29  [main] 	Checking for prerequisites
+下午 12:50:30  [main] 	All prerequisites found
+下午 12:50:30  [main] 	Initializing Modules
+下午 12:50:30  [main] 	Starting Check-Timer
+下午 12:50:30  [main] 	Control Panel Ready
+下午 12:50:31  [Apache] 	Attempting to start Apache app...
+下午 12:50:31  [Apache] 	Status change detected: running
+下午 12:50:33  [mysql] 	Attempting to start MySQL app...
+下午 12:50:35  [mysql] 	Status change detected: running
+下午 01:32:53  [main] 	Deinitializing Modules
+下午 01:32:53  [main] 	Deinitializing Control Panel
+
+下午 03:49:59  [main] 	Initializing Control Panel
+下午 03:49:59  [main] 	Windows Version:  Home  64-bit
+下午 03:49:59  [main] 	XAMPP Version: 5.6.24
+下午 03:49:59  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 03:49:59  [main] 	You are not running with administrator rights! This will work for
+下午 03:49:59  [main] 	most application stuff but whenever you do something with services
+下午 03:49:59  [main] 	there will be a security dialogue or things will break! So think 
+下午 03:49:59  [main] 	about running this application with administrator rights!
+下午 03:49:59  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 03:49:59  [main] 	Checking for prerequisites
+下午 03:49:59  [main] 	All prerequisites found
+下午 03:49:59  [main] 	Initializing Modules
+下午 03:49:59  [main] 	Starting Check-Timer
+下午 03:49:59  [main] 	Control Panel Ready
+下午 03:50:01  [Apache] 	Attempting to start Apache app...
+下午 03:50:01  [Apache] 	Status change detected: running
+下午 03:50:01  [mysql] 	Attempting to start MySQL app...
+下午 03:50:03  [mysql] 	Status change detected: running
+下午 03:56:41  [main] 	Deinitializing Modules
+下午 03:56:41  [main] 	Deinitializing Control Panel
+
+下午 03:56:50  [main] 	Initializing Control Panel
+下午 03:56:50  [main] 	Windows Version:  Home  64-bit
+下午 03:56:50  [main] 	XAMPP Version: 5.6.24
+下午 03:56:50  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 03:56:50  [main] 	You are not running with administrator rights! This will work for
+下午 03:56:50  [main] 	most application stuff but whenever you do something with services
+下午 03:56:50  [main] 	there will be a security dialogue or things will break! So think 
+下午 03:56:50  [main] 	about running this application with administrator rights!
+下午 03:56:50  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 03:56:50  [main] 	Checking for prerequisites
+下午 03:56:50  [main] 	All prerequisites found
+下午 03:56:50  [main] 	Initializing Modules
+下午 03:56:50  [Apache] 	XAMPP Apache is already running on port 80
+下午 03:56:50  [Apache] 	XAMPP Apache is already running on port 443
+下午 03:56:50  [mysql] 	XAMPP MySQL is already running on port 3306
+下午 03:56:50  [main] 	Starting Check-Timer
+下午 03:56:50  [main] 	Control Panel Ready
+下午 08:34:44  [main] 	Deinitializing Modules
+下午 08:34:44  [main] 	Deinitializing Control Panel
+
+下午 12:14:44  [main] 	Initializing Control Panel
+下午 12:14:44  [main] 	Windows Version:  Home  64-bit
+下午 12:14:44  [main] 	XAMPP Version: 5.6.24
+下午 12:14:44  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 12:14:44  [main] 	You are not running with administrator rights! This will work for
+下午 12:14:44  [main] 	most application stuff but whenever you do something with services
+下午 12:14:44  [main] 	there will be a security dialogue or things will break! So think 
+下午 12:14:44  [main] 	about running this application with administrator rights!
+下午 12:14:44  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 12:14:44  [main] 	Checking for prerequisites
+下午 12:14:45  [main] 	All prerequisites found
+下午 12:14:45  [main] 	Initializing Modules
+下午 12:14:45  [main] 	Starting Check-Timer
+下午 12:14:45  [main] 	Control Panel Ready
+下午 12:14:48  [Apache] 	Attempting to start Apache app...
+下午 12:14:49  [Apache] 	Status change detected: running
+下午 12:14:49  [mysql] 	Attempting to start MySQL app...
+下午 12:14:51  [mysql] 	Status change detected: running
+下午 01:29:56  [Apache] 	Attempting to stop Apache (PID: 1344)
+下午 01:29:56  [Apache] 	Attempting to stop Apache (PID: 3836)
+下午 01:29:56  [Apache] 	Status change detected: stopped
+下午 01:29:56  [mysql] 	Attempting to stop MySQL app...
+下午 01:29:57  [mysql] 	Status change detected: stopped
+下午 01:33:54  [main] 	Deinitializing Modules
+下午 01:33:54  [main] 	Deinitializing Control Panel
+
+上午 03:37:40  [main] 	Initializing Control Panel
+上午 03:37:40  [main] 	Windows Version:  Home  64-bit
+上午 03:37:40  [main] 	XAMPP Version: 5.6.24
+上午 03:37:40  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+上午 03:37:40  [main] 	You are not running with administrator rights! This will work for
+上午 03:37:40  [main] 	most application stuff but whenever you do something with services
+上午 03:37:40  [main] 	there will be a security dialogue or things will break! So think 
+上午 03:37:40  [main] 	about running this application with administrator rights!
+上午 03:37:40  [main] 	XAMPP Installation Directory: "c:\xampp\"
+上午 03:37:40  [main] 	Checking for prerequisites
+上午 03:37:42  [main] 	All prerequisites found
+上午 03:37:42  [main] 	Initializing Modules
+上午 03:37:42  [main] 	Starting Check-Timer
+上午 03:37:42  [main] 	Control Panel Ready
+上午 03:38:23  [Apache] 	Attempting to start Apache app...
+上午 03:38:23  [Apache] 	Status change detected: running
+上午 03:38:24  [mysql] 	Attempting to start MySQL app...
+上午 03:38:29  [mysql] 	Status change detected: running
+上午 04:08:06  [main] 	Deinitializing Modules
+上午 04:08:06  [main] 	Deinitializing Control Panel
+
+上午 11:40:10  [main] 	Initializing Control Panel
+上午 11:40:10  [main] 	Windows Version:  Home  64-bit
+上午 11:40:10  [main] 	XAMPP Version: 5.6.24
+上午 11:40:10  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+上午 11:40:10  [main] 	You are not running with administrator rights! This will work for
+上午 11:40:10  [main] 	most application stuff but whenever you do something with services
+上午 11:40:10  [main] 	there will be a security dialogue or things will break! So think 
+上午 11:40:10  [main] 	about running this application with administrator rights!
+上午 11:40:10  [main] 	XAMPP Installation Directory: "c:\xampp\"
+上午 11:40:10  [main] 	Checking for prerequisites
+上午 11:40:12  [main] 	All prerequisites found
+上午 11:40:12  [main] 	Initializing Modules
+上午 11:40:12  [main] 	Starting Check-Timer
+上午 11:40:12  [main] 	Control Panel Ready
+上午 11:40:29  [Apache] 	Attempting to start Apache app...
+上午 11:40:30  [Apache] 	Status change detected: running
+上午 11:40:30  [mysql] 	Attempting to start MySQL app...
+上午 11:40:32  [mysql] 	Status change detected: running
+下午 12:57:21  [main] 	Deinitializing Modules
+下午 12:57:21  [main] 	Deinitializing Control Panel
+
+下午 02:41:43  [main] 	Initializing Control Panel
+下午 02:41:43  [main] 	Windows Version:  Home  64-bit
+下午 02:41:43  [main] 	XAMPP Version: 5.6.24
+下午 02:41:43  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 02:41:43  [main] 	You are not running with administrator rights! This will work for
+下午 02:41:43  [main] 	most application stuff but whenever you do something with services
+下午 02:41:43  [main] 	there will be a security dialogue or things will break! So think 
+下午 02:41:43  [main] 	about running this application with administrator rights!
+下午 02:41:43  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 02:41:43  [main] 	Checking for prerequisites
+下午 02:41:43  [main] 	All prerequisites found
+下午 02:41:43  [main] 	Initializing Modules
+下午 02:41:43  [Apache] 	XAMPP Apache is already running on port 80
+下午 02:41:43  [Apache] 	XAMPP Apache is already running on port 443
+下午 02:41:43  [mysql] 	XAMPP MySQL is already running on port 3306
+下午 02:41:43  [main] 	Starting Check-Timer
+下午 02:41:43  [main] 	Control Panel Ready
+下午 04:22:43  [mysql] 	Attempting to stop MySQL app...
+下午 04:22:44  [Apache] 	Attempting to stop Apache (PID: 7580)
+下午 04:22:44  [Apache] 	Attempting to stop Apache (PID: 2516)
+下午 04:22:44  [Apache] 	Status change detected: stopped
+下午 04:22:44  [mysql] 	Status change detected: stopped
+下午 04:22:45  [main] 	Deinitializing Modules
+下午 04:22:45  [main] 	Deinitializing Control Panel
+
+下午 05:27:23  [main] 	Initializing Control Panel
+下午 05:27:23  [main] 	Windows Version:  Home  64-bit
+下午 05:27:23  [main] 	XAMPP Version: 5.6.24
+下午 05:27:23  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 05:27:23  [main] 	You are not running with administrator rights! This will work for
+下午 05:27:23  [main] 	most application stuff but whenever you do something with services
+下午 05:27:23  [main] 	there will be a security dialogue or things will break! So think 
+下午 05:27:23  [main] 	about running this application with administrator rights!
+下午 05:27:23  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 05:27:23  [main] 	Checking for prerequisites
+下午 05:27:25  [main] 	All prerequisites found
+下午 05:27:25  [main] 	Initializing Modules
+下午 05:27:25  [main] 	Starting Check-Timer
+下午 05:27:25  [main] 	Control Panel Ready
+下午 05:27:27  [Apache] 	Attempting to start Apache app...
+下午 05:27:27  [Apache] 	Status change detected: running
+下午 05:27:27  [mysql] 	Attempting to start MySQL app...
+下午 05:27:33  [mysql] 	Status change detected: running
+下午 06:41:25  [mysql] 	Attempting to stop MySQL app...
+下午 06:41:26  [Apache] 	Attempting to stop Apache (PID: 2308)
+下午 06:41:26  [Apache] 	Attempting to stop Apache (PID: 6644)
+下午 06:41:26  [Apache] 	Status change detected: stopped
+下午 06:41:27  [mysql] 	Status change detected: stopped
+下午 06:41:28  [main] 	Deinitializing Modules
+下午 06:41:28  [main] 	Deinitializing Control Panel
+
+下午 05:59:01  [main] 	Initializing Control Panel
+下午 05:59:01  [main] 	Windows Version:  Home  64-bit
+下午 05:59:01  [main] 	XAMPP Version: 5.6.24
+下午 05:59:01  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 05:59:01  [main] 	You are not running with administrator rights! This will work for
+下午 05:59:01  [main] 	most application stuff but whenever you do something with services
+下午 05:59:01  [main] 	there will be a security dialogue or things will break! So think 
+下午 05:59:01  [main] 	about running this application with administrator rights!
+下午 05:59:01  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 05:59:01  [main] 	Checking for prerequisites
+下午 05:59:02  [main] 	All prerequisites found
+下午 05:59:02  [main] 	Initializing Modules
+下午 05:59:02  [main] 	Starting Check-Timer
+下午 05:59:02  [main] 	Control Panel Ready
+下午 05:59:11  [Apache] 	Attempting to start Apache app...
+下午 05:59:11  [Apache] 	Status change detected: running
+下午 05:59:11  [mysql] 	Attempting to start MySQL app...
+下午 05:59:14  [mysql] 	Status change detected: running
+下午 07:12:52  [mysql] 	Attempting to stop MySQL app...
+下午 07:12:53  [Apache] 	Attempting to stop Apache (PID: 1896)
+下午 07:12:53  [Apache] 	Attempting to stop Apache (PID: 7096)
+下午 07:12:53  [Apache] 	Status change detected: stopped
+下午 07:12:53  [mysql] 	Status change detected: stopped
+下午 07:18:48  [main] 	Deinitializing Modules
+下午 07:18:48  [main] 	Deinitializing Control Panel
+
+下午 09:40:24  [main] 	Initializing Control Panel
+下午 09:40:24  [main] 	Windows Version:  Home  64-bit
+下午 09:40:24  [main] 	XAMPP Version: 5.6.24
+下午 09:40:24  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 09:40:24  [main] 	You are not running with administrator rights! This will work for
+下午 09:40:24  [main] 	most application stuff but whenever you do something with services
+下午 09:40:24  [main] 	there will be a security dialogue or things will break! So think 
+下午 09:40:24  [main] 	about running this application with administrator rights!
+下午 09:40:24  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 09:40:24  [main] 	Checking for prerequisites
+下午 09:40:25  [main] 	All prerequisites found
+下午 09:40:25  [main] 	Initializing Modules
+下午 09:40:25  [main] 	Starting Check-Timer
+下午 09:40:25  [main] 	Control Panel Ready
+下午 09:40:27  [mysql] 	Attempting to start MySQL app...
+下午 09:40:27  [mysql] 	Status change detected: running
+下午 09:40:28  [Apache] 	Attempting to start Apache app...
+下午 09:40:28  [Apache] 	Status change detected: running
+下午 11:41:41  [mysql] 	Attempting to stop MySQL app...
+下午 11:41:42  [Apache] 	Attempting to stop Apache (PID: 9992)
+下午 11:41:42  [Apache] 	Attempting to stop Apache (PID: 8164)
+下午 11:41:42  [Apache] 	Status change detected: stopped
+下午 11:41:42  [mysql] 	Status change detected: stopped
+下午 11:41:43  [main] 	Deinitializing Modules
+下午 11:41:43  [main] 	Deinitializing Control Panel
+
+下午 02:54:51  [main] 	Initializing Control Panel
+下午 02:54:51  [main] 	Windows Version:  Home  64-bit
+下午 02:54:51  [main] 	XAMPP Version: 5.6.24
+下午 02:54:51  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 02:54:51  [main] 	You are not running with administrator rights! This will work for
+下午 02:54:51  [main] 	most application stuff but whenever you do something with services
+下午 02:54:51  [main] 	there will be a security dialogue or things will break! So think 
+下午 02:54:51  [main] 	about running this application with administrator rights!
+下午 02:54:51  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 02:54:51  [main] 	Checking for prerequisites
+下午 02:54:51  [main] 	All prerequisites found
+下午 02:54:51  [main] 	Initializing Modules
+下午 02:54:51  [main] 	Starting Check-Timer
+下午 02:54:51  [main] 	Control Panel Ready
+下午 02:54:54  [Apache] 	Attempting to start Apache app...
+下午 02:54:54  [Apache] 	Status change detected: running
+下午 02:54:54  [mysql] 	Attempting to start MySQL app...
+下午 02:54:58  [mysql] 	Status change detected: running
+下午 04:05:46  [mysql] 	Attempting to stop MySQL app...
+下午 04:05:47  [mysql] 	Status change detected: stopped
+下午 04:05:47  [Apache] 	Attempting to stop Apache (PID: 7616)
+下午 04:05:47  [Apache] 	Attempting to stop Apache (PID: 5560)
+下午 04:05:47  [Apache] 	Status change detected: stopped
+下午 05:53:33  [mysql] 	Attempting to start MySQL app...
+下午 05:53:35  [Apache] 	Attempting to start Apache app...
+下午 05:53:35  [Apache] 	Status change detected: running
+下午 05:53:35  [mysql] 	Status change detected: running
+下午 07:10:19  [mysql] 	Attempting to stop MySQL app...
+下午 07:10:20  [Apache] 	Attempting to stop Apache (PID: 7976)
+下午 07:10:20  [Apache] 	Attempting to stop Apache (PID: 8176)
+下午 07:10:20  [Apache] 	Status change detected: stopped
+下午 07:10:20  [mysql] 	Status change detected: stopped
+下午 07:10:22  [main] 	Deinitializing Modules
+下午 07:10:22  [main] 	Deinitializing Control Panel
+
+下午 06:09:00  [main] 	Initializing Control Panel
+下午 06:09:00  [main] 	Windows Version:  Home  64-bit
+下午 06:09:00  [main] 	XAMPP Version: 5.6.24
+下午 06:09:00  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 06:09:00  [main] 	You are not running with administrator rights! This will work for
+下午 06:09:00  [main] 	most application stuff but whenever you do something with services
+下午 06:09:00  [main] 	there will be a security dialogue or things will break! So think 
+下午 06:09:00  [main] 	about running this application with administrator rights!
+下午 06:09:00  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 06:09:00  [main] 	Checking for prerequisites
+下午 06:09:01  [main] 	All prerequisites found
+下午 06:09:01  [main] 	Initializing Modules
+下午 06:09:01  [main] 	Starting Check-Timer
+下午 06:09:01  [main] 	Control Panel Ready
+下午 06:09:03  [Apache] 	Attempting to start Apache app...
+下午 06:09:03  [Apache] 	Status change detected: running
+下午 06:09:03  [mysql] 	Attempting to start MySQL app...
+下午 06:09:05  [mysql] 	Status change detected: running
+下午 11:00:57  [Apache] 	Attempting to stop Apache (PID: 8392)
+下午 11:00:57  [Apache] 	Attempting to stop Apache (PID: 8452)
+下午 11:00:57  [mysql] 	Attempting to stop MySQL app...
+下午 11:00:57  [Apache] 	Status change detected: stopped
+下午 11:00:58  [mysql] 	Status change detected: stopped
+下午 11:00:59  [main] 	Deinitializing Modules
+下午 11:00:59  [main] 	Deinitializing Control Panel
+
+下午 09:07:52  [main] 	Initializing Control Panel
+下午 09:07:52  [main] 	Windows Version:  Home  64-bit
+下午 09:07:52  [main] 	XAMPP Version: 5.6.24
+下午 09:07:52  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 09:07:52  [main] 	You are not running with administrator rights! This will work for
+下午 09:07:52  [main] 	most application stuff but whenever you do something with services
+下午 09:07:52  [main] 	there will be a security dialogue or things will break! So think 
+下午 09:07:52  [main] 	about running this application with administrator rights!
+下午 09:07:52  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 09:07:52  [main] 	Checking for prerequisites
+下午 09:07:52  [main] 	All prerequisites found
+下午 09:07:52  [main] 	Initializing Modules
+下午 09:07:52  [Apache] 	XAMPP Apache is already running on port 80
+下午 09:07:52  [Apache] 	XAMPP Apache is already running on port 443
+下午 09:07:52  [mysql] 	XAMPP MySQL is already running on port 3306
+下午 09:07:52  [main] 	Starting Check-Timer
+下午 09:07:52  [main] 	Control Panel Ready
+上午 12:25:29  [main] 	Deinitializing Modules
+上午 12:25:29  [main] 	Deinitializing Control Panel
+
+下午 03:00:06  [main] 	Initializing Control Panel
+下午 03:00:06  [main] 	Windows Version:  Home  64-bit
+下午 03:00:06  [main] 	XAMPP Version: 5.6.24
+下午 03:00:06  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 03:00:06  [main] 	You are not running with administrator rights! This will work for
+下午 03:00:06  [main] 	most application stuff but whenever you do something with services
+下午 03:00:06  [main] 	there will be a security dialogue or things will break! So think 
+下午 03:00:06  [main] 	about running this application with administrator rights!
+下午 03:00:06  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 03:00:06  [main] 	Checking for prerequisites
+下午 03:00:07  [main] 	All prerequisites found
+下午 03:00:07  [main] 	Initializing Modules
+下午 03:00:07  [main] 	Starting Check-Timer
+下午 03:00:07  [main] 	Control Panel Ready
+下午 03:00:09  [Apache] 	Attempting to start Apache app...
+下午 03:00:09  [Apache] 	Attempting to start Apache app...
+下午 03:00:09  [Apache] 	Status change detected: running
+下午 03:00:10  [mysql] 	Attempting to start MySQL app...
+下午 03:00:12  [mysql] 	Status change detected: running
+下午 03:00:15  [main] 	Deinitializing Modules
+下午 03:00:15  [main] 	Deinitializing Control Panel
+
+下午 03:19:14  [main] 	Initializing Control Panel
+下午 03:19:14  [main] 	Windows Version:  Home  64-bit
+下午 03:19:14  [main] 	XAMPP Version: 5.6.24
+下午 03:19:14  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 03:19:14  [main] 	You are not running with administrator rights! This will work for
+下午 03:19:14  [main] 	most application stuff but whenever you do something with services
+下午 03:19:14  [main] 	there will be a security dialogue or things will break! So think 
+下午 03:19:14  [main] 	about running this application with administrator rights!
+下午 03:19:14  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 03:19:14  [main] 	Checking for prerequisites
+下午 03:19:14  [main] 	All prerequisites found
+下午 03:19:14  [main] 	Initializing Modules
+下午 03:19:14  [Apache] 	XAMPP Apache is already running on port 80
+下午 03:19:14  [Apache] 	XAMPP Apache is already running on port 443
+下午 03:19:14  [mysql] 	XAMPP MySQL is already running on port 3306
+下午 03:19:14  [main] 	Starting Check-Timer
+下午 03:19:14  [main] 	Control Panel Ready
+下午 04:41:35  [main] 	Deinitializing Modules
+下午 04:41:35  [main] 	Deinitializing Control Panel
+
+下午 11:15:53  [main] 	Initializing Control Panel
+下午 11:15:53  [main] 	Windows Version:  Home  64-bit
+下午 11:15:53  [main] 	XAMPP Version: 5.6.24
+下午 11:15:53  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 11:15:53  [main] 	You are not running with administrator rights! This will work for
+下午 11:15:53  [main] 	most application stuff but whenever you do something with services
+下午 11:15:53  [main] 	there will be a security dialogue or things will break! So think 
+下午 11:15:53  [main] 	about running this application with administrator rights!
+下午 11:15:53  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 11:15:53  [main] 	Checking for prerequisites
+下午 11:15:54  [main] 	All prerequisites found
+下午 11:15:54  [main] 	Initializing Modules
+下午 11:15:54  [main] 	Starting Check-Timer
+下午 11:15:54  [main] 	Control Panel Ready
+下午 11:15:58  [Apache] 	Attempting to start Apache app...
+下午 11:15:58  [Apache] 	Status change detected: running
+下午 11:15:58  [mysql] 	Attempting to start MySQL app...
+下午 11:16:00  [mysql] 	Status change detected: running
+下午 11:48:18  [mysql] 	Attempting to stop MySQL app...
+下午 11:48:18  [Apache] 	Attempting to stop Apache (PID: 880)
+下午 11:48:18  [Apache] 	Attempting to stop Apache (PID: 7948)
+下午 11:48:19  [Apache] 	Status change detected: stopped
+下午 11:48:19  [mysql] 	Status change detected: stopped
+下午 11:48:22  [main] 	Deinitializing Modules
+下午 11:48:22  [main] 	Deinitializing Control Panel
+
+上午 09:36:57  [main] 	Initializing Control Panel
+上午 09:36:57  [main] 	Windows Version:  Home  64-bit
+上午 09:36:57  [main] 	XAMPP Version: 5.6.24
+上午 09:36:57  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+上午 09:36:57  [main] 	You are not running with administrator rights! This will work for
+上午 09:36:57  [main] 	most application stuff but whenever you do something with services
+上午 09:36:57  [main] 	there will be a security dialogue or things will break! So think 
+上午 09:36:57  [main] 	about running this application with administrator rights!
+上午 09:36:57  [main] 	XAMPP Installation Directory: "c:\xampp\"
+上午 09:36:57  [main] 	Checking for prerequisites
+上午 09:36:59  [main] 	All prerequisites found
+上午 09:36:59  [main] 	Initializing Modules
+上午 09:36:59  [main] 	Starting Check-Timer
+上午 09:36:59  [main] 	Control Panel Ready
+上午 09:37:06  [Apache] 	Attempting to start Apache app...
+上午 09:37:07  [Apache] 	Status change detected: running
+上午 09:37:08  [mysql] 	Attempting to start MySQL app...
+上午 09:37:11  [mysql] 	Status change detected: running
+上午 09:57:33  [main] 	Deinitializing Modules
+上午 09:57:33  [main] 	Deinitializing Control Panel
+
+下午 11:31:25  [main] 	Initializing Control Panel
+下午 11:31:25  [main] 	Windows Version:  Home  64-bit
+下午 11:31:25  [main] 	XAMPP Version: 5.6.24
+下午 11:31:25  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+下午 11:31:25  [main] 	You are not running with administrator rights! This will work for
+下午 11:31:25  [main] 	most application stuff but whenever you do something with services
+下午 11:31:25  [main] 	there will be a security dialogue or things will break! So think 
+下午 11:31:25  [main] 	about running this application with administrator rights!
+下午 11:31:25  [main] 	XAMPP Installation Directory: "c:\xampp\"
+下午 11:31:25  [main] 	Checking for prerequisites
+下午 11:31:26  [main] 	All prerequisites found
+下午 11:31:26  [main] 	Initializing Modules
+下午 11:31:26  [main] 	Starting Check-Timer
+下午 11:31:26  [main] 	Control Panel Ready
+下午 11:31:29  [Apache] 	Attempting to start Apache app...
+下午 11:31:29  [Apache] 	Status change detected: running
+下午 11:31:29  [mysql] 	Attempting to start MySQL app...
+下午 11:31:30  [mysql] 	Status change detected: running
+下午 11:58:42  [main] 	Deinitializing Modules
+下午 11:58:42  [main] 	Deinitializing Control Panel
+
